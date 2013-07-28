@@ -84,7 +84,7 @@ msgstr ""
 
 #: addaddress.rspleasefillinapointeraddress
 msgid "Please fill in a pointer address"
-msgstr "Prosze wypełnić wskaznik adresu"
+msgstr "Proszę wypełnić wskaźnik adresu"
 
 #: addaddress.rsresultofnextpointer
 msgctxt "addaddress.rsresultofnextpointer"
@@ -98,12 +98,12 @@ msgstr "Offset przenioslo do"
 
 #: addaddress.rsthepointeraddressyoufilledinisntavalidaddress
 msgid "The pointer address you filled in isn't a valid address"
-msgstr "Wybrany wskaznik jest zły lub jest nieprawidlowy"
+msgstr "Wybrany wskaźnik jest zły lub jest nieprawidlowy"
 
 #: addaddress.rsthispointerpointstoaddress
 msgctxt "addaddress.rsthispointerpointstoaddress"
 msgid "This pointer points to address"
-msgstr "Wskaznik ten wskazuje na adres"
+msgstr "Wskaźnik ten wskazuje na adres"
 
 #: addaddress.rsyouhavntfilledinalloffsets
 msgid "You havn't filled in all offsets"
@@ -533,7 +533,7 @@ msgstr ""
 #: cefuncproc.rsclear
 msgctxt "cefuncproc.rsclear"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: cefuncproc.rsctrl
 msgctxt "cefuncproc.rsctrl"
@@ -605,7 +605,7 @@ msgstr ""
 
 #: cefuncproc.rsicantgettheprocesslistyouarepropablyusingwindowsnt
 msgid "I can't get the process list. You are propably using windows NT. Use the window list instead!"
-msgstr "Nie moge wybrac tego z listy procesow. Prawdopodobnie uzywasz Windows NT. Użyj listy okien!"
+msgstr "Nie moge wybrać tego z listy procesow. Prawdopodobnie uzywasz Windows NT. Użyj listy okien!"
 
 #: cefuncproc.rsinsert
 msgctxt "cefuncproc.rsinsert"
@@ -753,7 +753,7 @@ msgstr ""
 
 #: customtypehandler.rsacustomtypewithnamealreadyexists
 msgid "A custom type with name %s already exists"
-msgstr "Wlasny typ z nazwa %s jest juz uzywany"
+msgstr "Własny typ z nazwa %s jest juz uzywany"
 
 #: customtypehandler.rsbytesizeis0
 msgid "bytesize is 0"
@@ -796,11 +796,11 @@ msgstr "Zmień reg"
 
 #: debuggertypedefinitions.rsfindcode
 msgid "Find code"
-msgstr "Znajdz kod"
+msgstr "Znajdź kod"
 
 #: debuggertypedefinitions.rsfindcodeaccess
 msgid "Find code access"
-msgstr "Znajdz kod dostepu"
+msgstr "Znajdź kod dostepu"
 
 #: debuggertypedefinitions.rshardwarebreakpoint
 msgid "Hardware Breakpoint"
@@ -927,7 +927,7 @@ msgstr ""
 
 #: disassemblerviewunit.rspleaseopenaprocessfirst
 msgid "Please open a process first"
-msgstr "Prosze najpierw otworzyć proces"
+msgstr "Proszę najpierw otworzyć proces"
 
 #: disassemblerviewunit.rssymbolsarebeingloaded
 msgid "Symbols are being loaded"
@@ -983,7 +983,7 @@ msgstr ""
 #: formaddresschangeunit.rsaddressofpointer
 msgctxt "formaddresschangeunit.rsaddressofpointer"
 msgid "Address of pointer"
-msgstr "Wskaznik adresu"
+msgstr "Wskaźnik adresu"
 
 #: formaddresschangeunit.rsfillinthenrofbytesafterthelocationthepointerpoints
 msgctxt "formaddresschangeunit.rsfillinthenrofbytesafterthelocationthepointerpoints"
@@ -1098,7 +1098,7 @@ msgstr ""
 #: formhotkeyunit.rsclear
 msgctxt "formhotkeyunit.rsclear"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: formhotkeyunit.rsctrl
 msgctxt "formhotkeyunit.rsctrl"
@@ -1470,7 +1470,7 @@ msgstr "Spauzuj zaznaczony proces"
 
 #: formsettingsunit.rspleasebootwithunsigneddriversallowedf8duringbootor
 msgid "Please boot with unsigned drivers allowed(F8 during boot), or sign the driver yourself"
-msgstr "Prosze uruchomic nieoznakowane sterowniki (F8 podczas ladowania bootu), lub zrob to recznie"
+msgstr "Proszę uruchomic nieoznakowane sterowniki (F8 podczas ladowania bootu), lub zrob to recznie"
 
 #: formsettingsunit.rsplugins
 msgctxt "formsettingsunit.rsplugins"
@@ -1642,15 +1642,15 @@ msgstr "Zamkniecie tego okna rowniez zatrzyma skaner. Jesteś pewny?"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidsizeforthewantedcodecave
 msgid "Please provide a valid size for the wanted code cave"
-msgstr "Prosze podac poprawny rozmiar poszukiwanej jaskini kodu"
+msgstr "Proszę podac poprawny rozmiar poszukiwanej jaskini kodu"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidstartaddress
 msgid "Please provide a valid start address"
-msgstr "Prosze podac poprawny adres poczatkowy"
+msgstr "Proszę podac poprawny adres poczatkowy"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidstopaddress
 msgid "Please provide a valid stop address"
-msgstr "Prosze podac prawidlowy adres zatrzymania"
+msgstr "Proszę podac prawidlowy adres zatrzymania"
 
 #: frmcodecavescannerunit.rspleasetellmeyoudontneedacodecavethissmall
 msgid "Please tell me you don't need a code cave this small!!!"
@@ -1730,17 +1730,17 @@ msgstr "Tworzenie traineru zakonczone powodzeniem"
 
 #: frmfillmemoryunit.rspleasefillinavalidfillvalue
 msgid "Please fill in a valid 'Fill' value"
-msgstr "Prosze wypełnić prawidłowo 'Fill' wartość"
+msgstr "Proszę wypełnić prawidłowo 'Fill' wartość"
 
 #: frmfillmemoryunit.rspleasefillinavalidfromaddress
 msgctxt "frmfillmemoryunit.rspleasefillinavalidfromaddress"
 msgid "Please fill in a valid 'From' address"
-msgstr "Prosze wypełnić prawidłowo 'From' adres"
+msgstr "Proszę wypełnić prawidłowo 'From' adres"
 
 #: frmfillmemoryunit.rspleasefillinavalidtoaddress
 msgctxt "frmfillmemoryunit.rspleasefillinavalidtoaddress"
 msgid "Please fill in a valid 'To' address"
-msgstr "Prosze wypełnić prawidłowo 'To' adres"
+msgstr "Proszę wypełnić prawidłowo 'To' adres"
 
 #: frmfindstaticsunit.strscan
 msgctxt "frmfindstaticsunit.strscan"
@@ -1759,7 +1759,7 @@ msgstr "Zatrzymuje..."
 
 #: frmgroupscanalgoritmgeneratorunit.rswildcard
 msgid "Skip nr of bytes:"
-msgstr "Pomiń numery bitow:"
+msgstr "Pomiń numery bitów:"
 
 #: frmloadmemoryunit.rsloadintomemory
 msgid "Load %s into memory"
@@ -1811,7 +1811,7 @@ msgstr ""
 
 #: frmmodifyregistersunit.rspleasefillinavalidvaluefor
 msgid "Please fill in a valid value for"
-msgstr "Prosze wypełnić prawidłowo wartość dla"
+msgstr "Proszę wypełnić prawidłowo wartość dla"
 
 #: frmpagingunit.rsfailurereadingphysicalmemory
 msgid "failure reading physical memory"
@@ -2222,7 +2222,7 @@ msgstr ""
 
 #: mainunit.rsfindoutwhataccessesthispointer
 msgid "Find out what accesses this pointer"
-msgstr "Znajdz, co ma dostep do adresu"
+msgstr "Znajdź, co ma dostep do adresu"
 
 #: mainunit.rsfindoutwhatwritesthispointer
 msgid "Find out what writes this pointer"
@@ -2550,11 +2550,11 @@ msgstr "Zostawic te adresy na tel liscie?"
 
 #: mainunit.strmorepointers
 msgid "There are more pointers selected. Do you want to change them as well?"
-msgstr "Zaznaczyles wiecej wskaznikow. Czy chcesz je zmienic?"
+msgstr "Zaznaczyles wiecej wskaźników. Czy chcesz je zmienic?"
 
 #: mainunit.strmorepointers2
 msgid "You have selected one or more pointers. Do you want to change them as well?"
-msgstr "Zaznaczyles jeden lub wiecej wskaznikow. Czy chcesz zmienic je?"
+msgstr "Zaznaczyles jeden lub wiecej wskaźników. Czy chcesz zmienic je?"
 
 #: mainunit.strnewyear
 msgid "And what are your good intentions for this year? ;-)"
@@ -2575,7 +2575,7 @@ msgstr "To nie jest prawidlowa wartoscia"
 
 #: mainunit.strnotsameammountofbytes
 msgid "The number of bytes you typed is not the same as the previous ammount. Continue?"
-msgstr "Liczba bajtów wpisanych nie jest taka sama jak poprzednia ilosc. Kontynuowac?"
+msgstr "Liczba bajtów wpisanych nie jest taka sama jak poprzednia ilość. Kontynuowac?"
 
 #: mainunit.strnotthesamesize1
 msgid "The text you entered isn't the same size as the original. Continue?"
@@ -2630,11 +2630,11 @@ msgstr "Szukaj w tej tablicy"
 
 #: mainunit.strsearchfortext
 msgid "Search for text"
-msgstr "Znajdz w tekscie"
+msgstr "Znajdź w tekscie"
 
 #: mainunit.strselectedaddressisapointer
 msgid "The selected address is a pointer. Are you sure? (the base pointer will get the address)"
-msgstr "Zaznaczony adres jest wskaznikiem. Jesteś pewny? (bazowy wskaznik będzie mial dostep do adresu)"
+msgstr "Zaznaczony adres jest wskaznikiem. Jesteś pewny? (bazowy wskaźnik będzie mial dostep do adresu)"
 
 #: mainunit.strsethotkey
 msgid "Set a hotkey"
@@ -2697,7 +2697,7 @@ msgstr "Bez przycisku"
 
 #: mainunit2.rspleasewait
 msgid "Please Wait!"
-msgstr "Prosze Czekac!"
+msgstr "Proszę Czekac!"
 
 #: mainunit2.rsselectanitemfromthelistforasmalldescription
 msgid "Select an item from the list for a small description"
@@ -2900,7 +2900,7 @@ msgstr "Podaj nazwę funkcji, ktora chcesz znalezc (Wielkosc liter może spowodo
 
 #: memorybrowserformunit.rsgotoaddress
 msgid "Goto Address"
-msgstr "Idz do adresu"
+msgstr "Idź do adresu"
 
 #: memorybrowserformunit.rshowlongshouldachangebeshown
 msgid "How long should a change be shown?"
@@ -2978,7 +2978,7 @@ msgstr "Wpisz poprawna wartość HEX"
 
 #: memorybrowserformunit.rspleasespecifythenewsymbolsearchpathseperatespaths
 msgid "Please specify the new symbol searchpath (; seperates paths)"
-msgstr "Prosze podac nowy symbol searchpath (; oddzielone sciezki)"
+msgstr "Proszę podac nowy symbol searchpath (; oddzielone sciezki)"
 
 #: memorybrowserformunit.rspleasetargetaprocessfirst
 msgid "Please target a process first"
@@ -3066,7 +3066,7 @@ msgstr "Błąd zapisu na dysku:%s"
 
 #: memscan.rserrorallocatingbytesfortheoldresults
 msgid "Error allocating %s bytes for the old results. buffersize=%s variablesize=%s"
-msgstr "Błąd alokacji %s bitow dla starych wynikow. buffersize=%s variablesize=%s"
+msgstr "Błąd alokacji %s bitów dla starych wynikow. buffersize=%s variablesize=%s"
 
 #: memscan.rserrorwhenwhileloadingresult
 msgid "Error when while loading result"
@@ -3098,7 +3098,7 @@ msgstr "%s jest zla wartoscia"
 
 #: memscan.rsisnotavalidcharacterinsideabinarystring
 msgid "%s is not a valid character inside a binary string"
-msgstr "%s nie jest prawidlowym znakiem wewnatrz binarnego ciagu "
+msgstr "%s nie jest prawidlowym znakiem wewnatrz binarnego ciągu "
 
 #: memscan.rsisnotavalidnotation
 msgid "%s is an invalid notation"
@@ -3124,7 +3124,7 @@ msgstr "Brak miejsca na dysku dla pliku pamieci"
 
 #: memscan.rspleasefillsomethingin
 msgid "Please fill something in"
-msgstr "Prosze wpisac cos w"
+msgstr "Proszę wpisac cos w"
 
 #: memscan.rsthetemporaryscandirectorydoesnotexistcheckyourscan
 msgid "The temporary scan directory %s does not exist. Check your scan settings"
@@ -3156,7 +3156,7 @@ msgstr "Cos naprawde zawiedli na Twoim komputerze! Nie widzisz że nie masz kern
 
 #: newkernelhandler.rspleaserebootandpressf8beforewindowsboots
 msgid "Please reboot and press f8 before windows boots. Then enable unsigned drivers. Alternatively, you could buy yourself a business class certificicate and sign the driver yourself (or try debug signing)"
-msgstr "Prosze ponownie uruchomic komputer i nacisnij klawisz F8 przed ladowaniem. Wtedy wlacz nieznane sterowniki. Alternatywnie mozesz kupic sobie klasy biznesowej i nadpisac sterowniki (lub sprobuj debugowac logowanie)"
+msgstr "Proszę ponownie uruchomic komputer i nacisnij klawisz F8 przed ladowaniem. Wtedy wlacz nieznane sterowniki. Alternatywnie mozesz kupic sobie klasy biznesowej i nadpisac sterowniki (lub sprobuj debugowac logowanie)"
 
 #: newkernelhandler.rsthedriverneedstobeloadedtobeabletousethisfunction
 msgid "The driver needs to be loaded to be able to use this function."
@@ -3646,22 +3646,22 @@ msgstr "Nowy postep"
 #: structuresfrm.rspleasegiveastartingoffsettoevaluate
 msgctxt "structuresfrm.rspleasegiveastartingoffsettoevaluate"
 msgid "Please give a starting offset to evaluate"
-msgstr "Prosze podac startowy offset do oszacowania"
+msgstr "Proszę podac startowy offset do oszacowania"
 
 #: structuresfrm.rspleasegiveastartingsizeofthestructyoucanchangethis
 msgctxt "structuresfrm.rspleasegiveastartingsizeofthestructyoucanchangethis"
 msgid "Please give a starting size of the struct (You can change this later if needed)"
-msgstr "Prosze podac poczatkowy rozmiar struktury (Mozesz to zmienic pozniej w razie potrzeby)"
+msgstr "Proszę podac poczatkowy rozmiar struktury (Mozesz to zmienic pozniej w razie potrzeby)"
 
 #: structuresfrm.rspleasegivethesizeoftheblocktoevaluate
 msgctxt "structuresfrm.rspleasegivethesizeoftheblocktoevaluate"
 msgid "Please give the size of the block to evaluate"
-msgstr "Prosze podac rozmiar bloku do oszacowania"
+msgstr "Proszę podac rozmiar bloku do oszacowania"
 
 #: structuresfrm.rspointerto
 msgctxt "structuresfrm.rspointerto"
 msgid "Pointer"
-msgstr "Wskaznik"
+msgstr "Wskaźnik"
 
 #: structuresfrm.rsrecalculatebaseofstructure
 msgctxt "structuresfrm.rsrecalculatebaseofstructure"
@@ -3696,7 +3696,7 @@ msgstr "Nieprawidlowa struktura pliku"
 #: structuresfrm.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav
 msgctxt "structuresfrm.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav"
 msgid "This is quite a big structure. How many bytes do you want to save?"
-msgstr "To ma za duza strukture. Jak dużo bitow chcesz zapisac?"
+msgstr "To ma za duza strukture. Jak dużo bitów chcesz zapisac?"
 
 #: structuresfrm.rsunkownfileextension
 msgctxt "structuresfrm.rsunkownfileextension"
@@ -3853,7 +3853,7 @@ msgstr ""
 #: structuresfrm2.rspointerto
 msgctxt "structuresfrm2.rspointerto"
 msgid "Pointer"
-msgstr "Wskaznik"
+msgstr "Wskaźnik"
 
 #: structuresfrm2.rsrecalculatebaseofstructure
 msgctxt "structuresfrm2.rsrecalculatebaseofstructure"
@@ -3948,7 +3948,7 @@ msgstr ""
 
 #: symbolhandler.rspleaseprovideabiggersize
 msgid "Please provide a bigger size"
-msgstr "Prosze podac wiekszy rozmiar"
+msgstr "Proszę podac wiekszy rozmiar"
 
 #: symbolhandler.rssymbolloaderthreadhascrashed
 msgid "Symbolloaderthread has crashed"
@@ -4059,7 +4059,7 @@ msgstr "Forum"
 #: TADDFORM.BTNADDOFFSET.CAPTION
 msgctxt "TADDFORM.BTNADDOFFSET.CAPTION"
 msgid "Add pointer"
-msgstr "Dodaj wskaznik"
+msgstr "Dodaj wskaźnik"
 
 #: TADDFORM.BTNCANCEL.CAPTION
 msgctxt "TADDFORM.BTNCANCEL.CAPTION"
@@ -4083,7 +4083,7 @@ msgstr "Dodaj adres"
 #: TADDFORM.CBPOINTER.CAPTION
 msgctxt "TADDFORM.CBPOINTER.CAPTION"
 msgid "Pointer"
-msgstr "Wskaznik"
+msgstr "Wskaźnik"
 
 #: TADDFORM.CBUNICODE.CAPTION
 msgctxt "TADDFORM.CBUNICODE.CAPTION"
@@ -4292,7 +4292,7 @@ msgstr "Zmień adres"
 #: TFORMADDRESSCHANGE.CBPOINTER.CAPTION
 msgctxt "TFORMADDRESSCHANGE.CBPOINTER.CAPTION"
 msgid "Pointer"
-msgstr "Wskaznik"
+msgstr "Wskaźnik"
 
 #: TFORMADDRESSCHANGE.CBUNICODE.CAPTION
 msgctxt "TFORMADDRESSCHANGE.CBUNICODE.CAPTION"
@@ -4549,7 +4549,7 @@ msgstr "Zapisz"
 
 #: TFORMDESIGNER.MISENDTOBACK.CAPTION
 msgid "Send to back"
-msgstr "Idz do poczatku"
+msgstr "Idź do poczatku"
 
 #: TFORMDESIGNER.NOSELECTION.CAPTION
 msgid "NoSelection"
@@ -5224,7 +5224,7 @@ msgstr "Kopiuj zaznaczone do schowka"
 #: TFOUNDCODEDIALOG.FOUNDCODELIST.COLUMNS[0].CAPTION
 msgctxt "TFOUNDCODEDIALOG.FOUNDCODELIST.COLUMNS[0].CAPTION"
 msgid "Count"
-msgstr "Ilosc"
+msgstr "Ilość"
 
 #: TFOUNDCODEDIALOG.FOUNDCODELIST.COLUMNS[1].CAPTION
 msgid "Instruction"
@@ -5311,7 +5311,7 @@ msgstr "Plik"
 
 #: TFRMAUTOINJECT.FIND1.CAPTION
 msgid "&Find..."
-msgstr "&Znajdz"
+msgstr "&Znajdź"
 
 #: TFRMAUTOINJECT.INJECT1.CAPTION
 msgid "Inject"
@@ -5475,7 +5475,7 @@ msgstr "Wartość"
 #: tfrmchangedaddresses.changedlist.columns[2].caption
 msgctxt "TFRMCHANGEDADDRESSES.CHANGEDLIST.COLUMNS[2].CAPTION"
 msgid "Count"
-msgstr "Ilosc"
+msgstr "Ilość"
 
 #: tfrmchangedaddresses.lblinfo.caption
 msgid "The following addresses have been changed by the code you selected"
@@ -5502,12 +5502,12 @@ msgstr "Pokaz rejestr states"
 #: tfrmd3dhooksnapshotconfig.btnclearfullsnapshot.caption
 msgctxt "TFRMD3DHOOKSNAPSHOTCONFIG.BTNCLEARFULLSNAPSHOT.CAPTION"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: tfrmd3dhooksnapshotconfig.btnclearsmallsnapshot.caption
 msgctxt "TFRMD3DHOOKSNAPSHOTCONFIG.BTNCLEARSMALLSNAPSHOT.CAPTION"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: tfrmd3dhooksnapshotconfig.caption
 msgid "D3DHook: Configure snapshot"
@@ -5519,11 +5519,11 @@ msgstr "Rowniez zapisz obrazek obok pliku snapshot"
 
 #: tfrmd3dhooksnapshotconfig.cbalsooutputpng.hint
 msgid "Use this if you have a more efficient way of rendering .PNG's to select the snapshot you wish"
-msgstr "Użyj tego jesli masz bardziej skuteczny sposob renderowania .PNG jest aby wybrac snapshot jaki chcesz"
+msgstr "Użyj tego jesli masz bardziej skuteczny sposob renderowania .PNG jest aby wybrać snapshot jaki chcesz"
 
 #: tfrmd3dhooksnapshotconfig.cbcleardepth.caption
 msgid "Clear depth buffer"
-msgstr "Wyczysc bufor glebokosci"
+msgstr "Wyczyść bufor glebokosci"
 
 #: tfrmd3dhooksnapshotconfig.cbprogressive.caption
 msgid "Progressive snapshots (Do not clear background)"
@@ -5566,7 +5566,7 @@ msgstr "Format obrazka"
 #: tfrmd3dtrainergeneratoroptions.btnclear.caption
 msgctxt "TFRMD3DTRAINERGENERATOROPTIONS.BTNCLEAR.CAPTION"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: tfrmd3dtrainergeneratoroptions.button2.caption
 msgid "Set background picture"
@@ -5631,7 +5631,7 @@ msgstr ""
 
 #: tfrmd3dtrainergeneratoroptions.label1.caption
 msgid "Transparency"
-msgstr "Przezroczysto��"
+msgstr "Przezroczystość"
 
 #: tfrmd3dtrainergeneratoroptions.label2.caption
 msgid "Position"
@@ -5639,19 +5639,19 @@ msgstr "Pozycja"
 
 #: tfrmd3dtrainergeneratoroptions.label3.caption
 msgid "Background picture:"
-msgstr "Obraz t�a:"
+msgstr "Obraz tła:"
 
 #: tfrmd3dtrainergeneratoroptions.label4.caption
 msgid "Distance between lines in pixels"
-msgstr "Odleglosc miedzy liniami w pikselach"
+msgstr "Odległość miedzy liniami w pikselach"
 
 #: tfrmd3dtrainergeneratoroptions.label5.caption
 msgid "Text distance from top"
-msgstr "Odleglosc tekstu od gory"
+msgstr "Odległość tekstu od góry"
 
 #: tfrmd3dtrainergeneratoroptions.label6.caption
 msgid "Text distance from border"
-msgstr "Odleglosc tekstu od granicy"
+msgstr "Odległość tekstu od granicy"
 
 #: tfrmd3dtrainergeneratoroptions.lbltextcolor.caption
 msgid "Font text"
@@ -5670,17 +5670,17 @@ msgstr "Po prawej"
 #: tfrmd3dtrainergeneratoroptions.rbcenter.caption
 msgctxt "TFRMD3DTRAINERGENERATOROPTIONS.RBCENTER.CAPTION"
 msgid "Center"
-msgstr "Srodek"
+msgstr "Środek"
 
 #: tfrmd3dtrainergeneratoroptions.rbtopleft.caption
 msgctxt "TFRMD3DTRAINERGENERATOROPTIONS.RBTOPLEFT.CAPTION"
 msgid "Top left"
-msgstr "Gorne lewo"
+msgstr "Górne lewo"
 
 #: tfrmd3dtrainergeneratoroptions.rbtopright.caption
 msgctxt "TFRMD3DTRAINERGENERATOROPTIONS.RBTOPRIGHT.CAPTION"
 msgid "Top right"
-msgstr "Gorne prawo"
+msgstr "Górne prawo"
 
 #: TFRMDEBUGEVENTS.CAPTION
 msgid "Debug Events"
@@ -5701,7 +5701,7 @@ msgstr ""
 
 #: TFRMDISASSEMBLYSCAN.MENUITEM1.CAPTION
 msgid "Go to this address"
-msgstr "Idz do tego adresu"
+msgstr "Idź do tego adresu"
 
 #: TFRMDISSECTCODE.BTNSTART.CAPTION
 msgctxt "TFRMDISSECTCODE.BTNSTART.CAPTION"
@@ -5722,15 +5722,15 @@ msgstr "Maksymalny offset:"
 
 #: TFRMDISSECTCODE.LABEL11.CAPTION
 msgid "Calls:"
-msgstr "Polaczenia:"
+msgstr "Połączenia:"
 
 #: TFRMDISSECTCODE.LABEL2.CAPTION
 msgid "Select the module(s) to dissect"
-msgstr "Wybierz modul/moduly aby wniknac"
+msgstr "Wybierz moduł/moduły aby wniknac"
 
 #: TFRMDISSECTCODE.LABEL3.CAPTION
 msgid "Hold CTRL to select multiple"
-msgstr "Przytrzymaj CTRL aby wybrac wielokrotnie"
+msgstr "Przytrzymaj CTRL aby wybrać wielokrotnie"
 
 #: TFRMDISSECTCODE.LABEL4.CAPTION
 msgid "String references found:"
@@ -5824,7 +5824,7 @@ msgstr "Wyliczaj DLL'ki"
 #: TFRMENUMERATEDLLS.FIND.CAPTION
 msgctxt "TFRMENUMERATEDLLS.FIND.CAPTION"
 msgid "Find"
-msgstr "Znajdz"
+msgstr "Znajdź"
 
 #: TFRMENUMERATEDLLS.LABEL2.CAPTION
 msgid "Symbols"
@@ -5942,7 +5942,7 @@ msgstr "Stopuje..."
 #: TFRMFINDSTATICS.CAPTION
 msgctxt "TFRMFINDSTATICS.CAPTION"
 msgid "Find static addresses"
-msgstr "Znajdz adres statyczny"
+msgstr "Znajdź adres statyczny"
 
 #: TFRMFINDSTATICS.CHECKBOX1.CAPTION
 msgid "Only disassemble and check executable code"
@@ -5997,11 +5997,11 @@ msgstr "Adres"
 
 #: TFRMFINDSTATICS.LISTVIEW1.COLUMNS[1].CAPTION
 msgid "Pointer?"
-msgstr "Wskaznik?"
+msgstr "Wskaźnik?"
 
 #: TFRMFINDSTATICS.LISTVIEW1.COLUMNS[2].CAPTION
 msgid "Reference count"
-msgstr "Ilosc referencyjna"
+msgstr "Ilość referencyjna"
 
 #: TFRMGROUPSCANALGORITMGENERATOR.BUTTON1.CAPTION
 msgctxt "TFRMGROUPSCANALGORITMGENERATOR.BUTTON1.CAPTION"
@@ -6065,7 +6065,7 @@ msgstr "Anuluj"
 #: TFRMHOTKEYEX.BUTTON3.CAPTION
 msgctxt "TFRMHOTKEYEX.BUTTON3.CAPTION"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: TFRMHOTKEYEX.CAPTION
 msgid "Set Hotkey"
@@ -6123,7 +6123,7 @@ msgstr ""
 
 #: TFRMLUAENGINE.MENUITEM5.CAPTION
 msgid "Clear output"
-msgstr "Wyczysc output"
+msgstr "Wyczyść output"
 
 #: TFRMLUAENGINE.MENUITEM7.CAPTION
 msgctxt "TFRMLUAENGINE.MENUITEM7.CAPTION"
@@ -6244,7 +6244,7 @@ msgstr "Ta Pamiec"
 #: tfrmmemoryviewex.edtpitch.hint
 msgctxt "TFRMMEMORYVIEWEX.EDTPITCH.HINT"
 msgid "Number of bytes a row exists out"
-msgstr "Liczba bitow obecnie w rzedzie"
+msgstr "Liczba bitów obecnie w rzedzie"
 
 #: tfrmmemoryviewex.edtpitch.text
 msgctxt "TFRMMEMORYVIEWEX.EDTPITCH.TEXT"
@@ -6383,7 +6383,7 @@ msgstr "Wskazniki musza miec speyficzne offsety"
 
 #: TFRMPOINTERSCANNERSETTINGS.CBNOREADONLY.CAPTION
 msgid "Don't include pointers with read-only nodes"
-msgstr "Nie obejmuje wskaznikow tylko do odczytu"
+msgstr "Nie obejmuje wskaźników tylko do odczytu"
 
 #: TFRMPOINTERSCANNERSETTINGS.CBONLYONESTATIC.CAPTION
 msgid "Stop traversing a path when a static has been found"
@@ -6395,7 +6395,7 @@ msgstr "Użyj tylko stos bazy mainthread"
 
 #: TFRMPOINTERSCANNERSETTINGS.CBREUSEPOINTERMAP.CAPTION
 msgid "Use pointermap from previous pointerscan"
-msgstr "Użyj pointermap z poprzeniego skanu wskaznikow"
+msgstr "Użyj pointermap z poprzeniego skanu wskaźników"
 
 #: TFRMPOINTERSCANNERSETTINGS.CBSTACKASBASE.CAPTION
 msgid "Accept stack addresses of the main thread as base pointer as well"
@@ -6403,11 +6403,11 @@ msgstr ""
 
 #: TFRMPOINTERSCANNERSETTINGS.CBSTATICONLY.CAPTION
 msgid "Only find paths with a static address"
-msgstr "Szukaj tylko w sciezkach gdzie masz adres statyczny"
+msgstr "Szukaj tylko w ścieżkach gdzie masz adres statyczny"
 
 #: TFRMPOINTERSCANNERSETTINGS.CBUSEHEAPDATA.CAPTION
 msgid "Improve pointerscan with gathered heap data"
-msgstr "Poprawa danych szukania wskaznikow z zebranych danych sterty"
+msgstr "Poprawa danych szukania wskaźników z zebranych danych sterty"
 
 #: TFRMPOINTERSCANNERSETTINGS.CBVALUETYPE.TEXT
 msgctxt "TFRMPOINTERSCANNERSETTINGS.CBVALUETYPE.TEXT"
@@ -6464,11 +6464,11 @@ msgstr "Maksymalny poziom"
 
 #: TFRMPOINTERSCANNERSETTINGS.LABEL13.CAPTION
 msgid "Pointer path may only be inside this region:"
-msgstr "Lokalizacje wskaznikow moga byc tylko w tych regionach:"
+msgstr "Lokalizacje wskaźników moga byc tylko w tych regionach:"
 
 #: TFRMPOINTERSCANNERSETTINGS.LABEL14.CAPTION
 msgid "Maximum offset to accept"
-msgstr "Maksymalna ilosc offsetow"
+msgstr "Maksymalna ilość offsetow"
 
 #: TFRMPOINTERSCANNERSETTINGS.LABEL3.CAPTION
 msgid "Maximum offset value:"
@@ -6476,11 +6476,11 @@ msgstr "Maksymalna wartość offsetu:"
 
 #: TFRMPOINTERSCANNERSETTINGS.LABEL9.CAPTION
 msgid "Nr of threads scanning: "
-msgstr "Ilosc wątków skanowania: "
+msgstr "Ilość wątków skanowania: "
 
 #: TFRMPOINTERSCANNERSETTINGS.PSREVERSE.CAPTION
 msgid "Reverse"
-msgstr "Odwroc"
+msgstr "Odwróć"
 
 #: TFRMPOINTERSCANNERSETTINGS.RBFINDADDRESS.CAPTION
 msgctxt "TFRMPOINTERSCANNERSETTINGS.RBFINDADDRESS.CAPTION"
@@ -6494,16 +6494,16 @@ msgstr "Wartość do znalezienia"
 
 #: TFRMREFERENCEDSTRINGS.CAPTION
 msgid "Referenced Strings"
-msgstr "Odwolaj Strings"
+msgstr "Odwołaj Strings"
 
 #: TFRMREFERENCEDSTRINGS.FIND1.CAPTION
 msgctxt "TFRMREFERENCEDSTRINGS.FIND1.CAPTION"
 msgid "Find"
-msgstr "Znajdz"
+msgstr "Znajdź"
 
 #: TFRMREFERENCEDSTRINGS.FINDNEXT1.CAPTION
 msgid "Find Next"
-msgstr "Znajdz nastepny"
+msgstr "Znajdź następny"
 
 #: TFRMREFERENCEDSTRINGS.LVSTRINGLIST.COLUMNS[0].CAPTION
 msgctxt "TFRMREFERENCEDSTRINGS.LVSTRINGLIST.COLUMNS[0].CAPTION"
@@ -6536,7 +6536,7 @@ msgstr "Anuluj"
 
 #: TFRMRESCANPOINTER.CAPTION
 msgid "Rescan pointerlist"
-msgstr "Przeskanuj liste wskaznikow"
+msgstr "Przeskanuj liste wskaźników"
 
 #: TFRMRESCANPOINTER.CBBASEPOINTERMUSTBEINRANGE.CAPTION
 msgid "Base pointer must be in range"
@@ -6616,7 +6616,7 @@ msgstr "Adres"
 
 #: TFRMSAVEDISASSEMBLY.CBBYTES.CAPTION
 msgid "bytes"
-msgstr "bitow"
+msgstr "bitów"
 
 #: TFRMSAVEDISASSEMBLY.CBOPCODE.CAPTION
 msgid "opcode"
@@ -6638,7 +6638,7 @@ msgstr ""
 
 #: TFRMSELECTIONLIST.CAPTION
 msgid "title"
-msgstr "tytul"
+msgstr "tytuł"
 
 #: TFRMSELECTIONLIST.LABEL1.CAPTION
 msgid "caption"
@@ -6695,7 +6695,7 @@ msgstr "Otwórz snapshot(y)"
 
 #: tfrmsnapshothandler.menuitem8.caption
 msgid "Clear List"
-msgstr "Wyczysc liste"
+msgstr "Wyczyść listę"
 
 #: tfrmsnapshothandler.miconfig.caption
 msgctxt "TFRMSNAPSHOTHANDLER.MICONFIG.CAPTION"
@@ -6941,7 +6941,7 @@ msgstr "Skanuj dalej"
 
 #: TFRMSTRINGPOINTERSCAN.MENUITEM6.CAPTION
 msgid "Filter pointerlist"
-msgstr "Filtruj liste wskaznikow"
+msgstr "Filtruj liste wskaźników"
 
 #: TFRMSTRINGPOINTERSCAN.MENUITEM7.CAPTION
 msgctxt "TFRMSTRINGPOINTERSCAN.MENUITEM7.CAPTION"
@@ -6950,7 +6950,7 @@ msgstr "Nowe okno"
 
 #: TFRMSTRINGPOINTERSCAN.MICLEARCACHE.CAPTION
 msgid "Clear pointer cache"
-msgstr "Wyczysc zawartosc wskaznikow"
+msgstr "Wyczyść zawartosc wskaźników"
 
 #: TFRMSTRINGPOINTERSCAN.RBDATASCAN.CAPTION
 msgid "Data scan"
@@ -7091,7 +7091,7 @@ msgstr "Adres: Wartość"
 #: TFRMSTRUCTURES.MEMORYBROWSEPOINTER1.CAPTION
 msgctxt "TFRMSTRUCTURES.MEMORYBROWSEPOINTER1.CAPTION"
 msgid "Memory browse pointer"
-msgstr "Przegladaj ten wskaznik w pamieci"
+msgstr "Przegladaj ten wskaźnik w pamieci"
 
 #: TFRMSTRUCTURES.MEMORYBROWSETHISADDRESS1.CAPTION
 msgctxt "TFRMSTRUCTURES.MEMORYBROWSETHISADDRESS1.CAPTION"
@@ -7300,7 +7300,7 @@ msgstr "Dodaj nowa grupe"
 
 #: TFRMSTRUCTURES2.MENUITEM6.CAPTION
 msgid "Find value"
-msgstr "Znajdz wartość"
+msgstr "Znajdź wartość"
 
 #: TFRMSTRUCTURES2.MENUITEM7.CAPTION
 msgctxt "TFRMSTRUCTURES2.MENUITEM7.CAPTION"
@@ -7421,7 +7421,7 @@ msgstr "Wypelniaj luki"
 
 #: TFRMSTRUCTURES2.MIFINDRELATIONS.CAPTION
 msgid "Find relations"
-msgstr "Znajdz relacje/stosunki"
+msgstr "Znajdź relacje/stosunki"
 
 #: TFRMSTRUCTURES2.MIFULLUPGRADE.CAPTION
 msgid "Upgrade this child to full structure"
@@ -7718,7 +7718,7 @@ msgstr "Punkt zaczepu"
 
 #: TFRMTHREADLIST.MICLEARDEBUGREGISTERS.CAPTION
 msgid "Clear debug registers"
-msgstr "Wyczysc rejestracje debugu"
+msgstr "Wyczyść rejestracje debugu"
 
 #: TFRMTHREADLIST.MIFREEZETHREAD.CAPTION
 msgid "Freeze thread"
@@ -7853,7 +7853,7 @@ msgstr ""
 
 #: tfrmtracer.menuitem4.caption
 msgid "Find..."
-msgstr "Znajdz..."
+msgstr "Znajdź..."
 
 #: tfrmtracer.menuitem5.caption
 msgid "Expand all"
@@ -7984,7 +7984,7 @@ msgstr "Usuń opcje"
 
 #: TFRMTRAINERGENERATOR.BTNDESIGNFORM.CAPTION
 msgid "Design userinterface manually"
-msgstr "Stworz wlasny trainer"
+msgstr "Stworz własny trainer"
 
 #: TFRMTRAINERGENERATOR.BUTTON1.CAPTION
 msgid "Set Icon"
@@ -7997,7 +7997,7 @@ msgstr "Dodaj tło trainera"
 #: TFRMTRAINERGENERATOR.BUTTON3.CAPTION
 msgctxt "TFRMTRAINERGENERATOR.BUTTON3.CAPTION"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: TFRMTRAINERGENERATOR.BUTTON5.CAPTION
 msgid "Generate trainer"
@@ -8170,7 +8170,7 @@ msgstr ""
 
 #: TFRMULTIMAP.BUTTON2.CAPTION
 msgid "Reset Count"
-msgstr "Resetuj ilosc"
+msgstr "Resetuj ilość"
 
 #: TFRMULTIMAP.BUTTON3.CAPTION
 msgid "Code has been executed"
@@ -8290,7 +8290,7 @@ msgstr "Ostatnia lokacja"
 #: TFRMULTIMAP.LISTVIEW1.COLUMNS[2].CAPTION
 msgctxt "TFRMULTIMAP.LISTVIEW1.COLUMNS[2].CAPTION"
 msgid "Count"
-msgstr "Ilosc"
+msgstr "Ilość"
 
 #: TFRMULTIMAP.MENUITEM2.CAPTION
 msgid "Flush buffers"
@@ -8336,7 +8336,7 @@ msgstr "Zmień przycisk"
 #: THOTKEYFORM.BUTTON2.CAPTION
 msgctxt "THOTKEYFORM.BUTTON2.CAPTION"
 msgid "Clear"
-msgstr "Wyczysc"
+msgstr "Wyczyść"
 
 #: THOTKEYFORM.CAPTION
 msgid "Set/Change hotkey"
@@ -8522,7 +8522,7 @@ msgstr "Szybki skan"
 
 #: tmainform.cbfastscan.hint
 msgid "Speeds up the scan and decreases useless reults by skipping unaligned memory, or only scans addresses ending with specific digits"
-msgstr "Przyspiesza skanowanie i zmienjsza niepotrzebna ilosc wynikow pomijajac niezestrojona pamięć, lub tylko skanuje adresy konczonce sie specyficznymi cyframi"
+msgstr "Przyspiesza skanowanie i zmienjsza niepotrzebna ilość wynikow pomijajac niezestrojona pamięć, lub tylko skanuje adresy konczonce sie specyficznymi cyframi"
 
 #: TMAINFORM.CBHEXADECIMAL.CAPTION
 msgctxt "TMAINFORM.CBHEXADECIMAL.CAPTION"
@@ -8644,7 +8644,7 @@ msgstr "&Plik"
 #: TMAINFORM.FINDOUTWHATACCESSESTHISADDRESS1.CAPTION
 msgctxt "TMAINFORM.FINDOUTWHATACCESSESTHISADDRESS1.CAPTION"
 msgid "Find out what accesses this address"
-msgstr "Znajdz, co ma dostep do tego adresu"
+msgstr "Znajdź, co ma dostep do tego adresu"
 
 #: TMAINFORM.FORCERECHECKSYMBOLS1.CAPTION
 msgctxt "TMAINFORM.FORCERECHECKSYMBOLS1.CAPTION"
@@ -8873,11 +8873,11 @@ msgstr "Stworz uklad programu"
 
 #: TMAINFORM.MIDEFINENEWCUSTOMTYPE.CAPTION
 msgid "Define new custom type (Auto Assembler)"
-msgstr "Zdefiniuj wlasny typ (Auto Assabler)"
+msgstr "Zdefiniuj własny typ (Auto Assabler)"
 
 #: TMAINFORM.MIDEFINENEWCUSTOMTYPELUA.CAPTION
 msgid "Define new custom type (LUA)"
-msgstr "Zdefiniuj wlasny typ (LUA)"
+msgstr "Zdefiniuj własny typ (LUA)"
 
 #: TMAINFORM.MIDELETECUSTOMTYPE.CAPTION
 msgid "Delete selected custom type"
@@ -8951,7 +8951,7 @@ msgstr "Zapisz te wyniki skanu"
 
 #: TMAINFORM.MISETCROSSHAIR.CAPTION
 msgid "Set custom crosshair"
-msgstr "Stworz wlasny celownik"
+msgstr "Stworz własny celownik"
 
 #: TMAINFORM.MISHOWASBINARY.CAPTION
 msgctxt "TMAINFORM.MISHOWASBINARY.CAPTION"
@@ -9036,7 +9036,7 @@ msgstr ""
 
 #: TMAINFORM.NEW1.CAPTION
 msgid "Clear list"
-msgstr "Wyczysc liste"
+msgstr "Wyczyść liste"
 
 #: TMAINFORM.NEWSCAN.CAPTION
 msgctxt "TMAINFORM.NEWSCAN.CAPTION"
@@ -9226,7 +9226,7 @@ msgstr ""
 
 #: TMEMORYBROWSER.ASSEMBLYCODE1.CAPTION
 msgid "Find assembly code"
-msgstr "Znajdz assembly code"
+msgstr "Znajdź assembly code"
 
 #: TMEMORYBROWSER.AUTOINJECT1.CAPTION
 msgid "Auto Assemble"
@@ -9455,7 +9455,7 @@ msgstr "Dowiedz sie, do czego odnosi sie adres"
 #: TMEMORYBROWSER.FINDSTATICPOINTERS1.CAPTION
 msgctxt "TMEMORYBROWSER.FINDSTATICPOINTERS1.CAPTION"
 msgid "Find static addresses"
-msgstr "Znajdz statyczne adresy"
+msgstr "Znajdź statyczne adresy"
 
 #: TMEMORYBROWSER.FOLLOW1.CAPTION
 msgid "Follow"
@@ -9475,11 +9475,11 @@ msgstr "Zdobadz adres"
 
 #: TMEMORYBROWSER.GOTO1.CAPTION
 msgid "Goto address"
-msgstr "Idz do adresu"
+msgstr "Idź do adresu"
 
 #: TMEMORYBROWSER.GOTOADDRESS1.CAPTION
 msgid "Go to address"
-msgstr "Idz do adresu"
+msgstr "Idź do adresu"
 
 #: TMEMORYBROWSER.GSLABEL.CAPTION
 msgid "GS 0000"
@@ -9698,11 +9698,11 @@ msgstr "Wnikliwe pliki/struktury"
 #: TMEMORYBROWSER.MIFINDWHATACCESSES.CAPTION
 msgctxt "TMEMORYBROWSER.MIFINDWHATACCESSES.CAPTION"
 msgid "Find out what accesses this address"
-msgstr "Znajdz, co ma dostep do tego adresu"
+msgstr "Znajdź, co ma dostep do tego adresu"
 
 #: TMEMORYBROWSER.MIFINDWHATWRITES.CAPTION
 msgid "Find out what writes this address"
-msgstr "Znajdz, gdzie adres pisze w pamieci"
+msgstr "Znajdź, gdzie adres pisze w pamieci"
 
 #: TMEMORYBROWSER.MILOCK.CAPTION
 msgctxt "TMEMORYBROWSER.MILOCK.CAPTION"
@@ -9887,7 +9887,7 @@ msgstr ""
 
 #: TMEMORYBROWSER.OPENDLLDIALOG.TITLE
 msgid "Select the module you want to inject"
-msgstr "Zaznacz modul jaki chcesz zainjectowac"
+msgstr "Zaznacz moduł jaki chcesz zainjectowac"
 
 #: TMEMORYBROWSER.PASTEFROMCLIPBOARD1.CAPTION
 msgid "Paste from clipboard"
@@ -10384,7 +10384,7 @@ msgstr "Zmień offset %s"
 
 #: valuechange.rspartofthestringisunreadable
 msgid "Part of the string is unreadable!"
-msgstr "Czesc ci�gu jest nieczytelna!"
+msgstr "Część ciągu jest nieczytelna!"
 
 #: vartypestrings.rs_vtall
 msgid "All"
@@ -10411,7 +10411,7 @@ msgstr ""
 
 #: vartypestrings.rs_vtcustom
 msgid "Custom"
-msgstr "Wlasny"
+msgstr "Własny"
 
 #: vartypestrings.rs_vtdouble
 msgctxt "vartypestrings.rs_vtdouble"
@@ -10430,7 +10430,7 @@ msgstr "Grupowe"
 #: vartypestrings.rs_vtpointer
 msgctxt "vartypestrings.rs_vtpointer"
 msgid "Pointer"
-msgstr "Wskaznik"
+msgstr "Wskaźnik"
 
 #: vartypestrings.rs_vtqword
 msgctxt "vartypestrings.rs_vtqword"
