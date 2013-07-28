@@ -15,7 +15,7 @@ msgstr "Oznacza to, ze dbvm nie jest uruchomione, ale system jest w stanie uruch
 
 #: aboutunit.rsthismeansthatyoursystemisrunningdbvm
 msgid "This means that your system is running dbvm. This means ce will make use of some advanced tools that are otherwhise unavailable"
-msgstr "Oznacza to, z system dbvm dziala. CE wykorzysta sporo zaawansowanych narzedzi, ktÃ³re sÄ… niedostepne inaczej"
+msgstr "Oznacza to, z system dbvm dziala. CE wykorzysta sporo zaawansowanych narzedzi, które s¹ niedostepne inaczej"
 
 #: aboutunit.rsthismeansthatyouwillneedanewcpuinteltobeabletouset
 msgid "This means that you will need a new cpu (intel) to be able to use the advanced dbvm options"
@@ -263,7 +263,7 @@ msgstr "Ten region pamieci w tym adresie nie dziala jak ma dzialac! Kontynuowac?
 
 #: advancedoptionsunit.strpartofopcodeinthelist
 msgid "At least one of these bytes is already in the list"
-msgstr "Co najmniej jeden z tych bajtow jest juÅ¼ na liscie"
+msgstr "Co najmniej jeden z tych bajtow jest ju¿ na liscie"
 
 #: advancedoptionsunit.strselectexefor3d
 msgid "Select the executable of the Direct-3D game"
@@ -3038,7 +3038,7 @@ msgstr "Odlacz od innych hexview"
 #: memorybrowserformunit.rsvalue
 msgctxt "memorybrowserformunit.rsvalue"
 msgid "Value"
-msgstr "Wartosc"
+msgstr "WartoÅ›Ä‡"
 
 #: memorybrowserformunit.rswhatisthenewvalueof
 msgid "What is the new value of %s?"
@@ -3596,7 +3596,7 @@ msgstr "Zle/Wnikliwe dane"
 #: structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype
 msgctxt "structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype"
 msgid "Do you want Cheat Engine to try and fill in the most basic types of the struct using the current address?"
-msgstr "Chcesz, aby sprobowaÄ‡ i wypelnic najbardziej podstawe typy struktur wykorzystujacych aktualny adres?"
+msgstr "Chcesz, aby sprobowaæ i wypelnic najbardziej podstawe typy struktur wykorzystujacych aktualny adres?"
 
 #: structuresfrm.rsfirstselectastructureyouwanttomodifyordefine
 msgctxt "structuresfrm.rsfirstselectastructureyouwanttomodifyordefine"
@@ -4370,7 +4370,7 @@ msgstr ""
 
 #: TFORMADDRESSCHANGE.LBLVALUE.CAPTION
 msgid "=Value"
-msgstr "=Wartosc"
+msgstr "=WartoÅ›Ä‡"
 
 #: TFORMADDRESSCHANGE.LENGTHLABEL.CAPTION
 msgctxt "TFORMADDRESSCHANGE.LENGTHLABEL.CAPTION"
@@ -4744,7 +4744,7 @@ msgstr "Ustawienia Cheat Engine"
 
 #: TFORMSETTINGS.CBALLINCLUDESCUSTOMTYPE.CAPTION
 msgid "Custom types are included with the ALL scan variabletype"
-msgstr "Niestandardowe typy sÄ… dolaczone z opcja ALL scan variablatype"
+msgstr "Niestandardowe typy s¹ dolaczone z opcja ALL scan variablatype"
 
 #: TFORMSETTINGS.CBALWAYSAUTOATTACH.CAPTION
 msgid "Even autoattach when another process has already been selected"
@@ -5470,7 +5470,7 @@ msgstr "Adres"
 #: tfrmchangedaddresses.changedlist.columns[1].caption
 msgctxt "TFRMCHANGEDADDRESSES.CHANGEDLIST.COLUMNS[1].CAPTION"
 msgid "Value"
-msgstr "Wartosc"
+msgstr "WartoÅ›Ä‡"
 
 #: tfrmchangedaddresses.changedlist.columns[2].caption
 msgctxt "TFRMCHANGEDADDRESSES.CHANGEDLIST.COLUMNS[2].CAPTION"
@@ -5574,7 +5574,7 @@ msgstr "Wybierz obraz tla"
 
 #: tfrmd3dtrainergeneratoroptions.button3.caption
 msgid "Set Font"
-msgstr "Wybierz czcionkÄ™"
+msgstr "Wybierz czcionkê"
 
 #: tfrmd3dtrainergeneratoroptions.button4.caption
 msgctxt "TFRMD3DTRAINERGENERATOROPTIONS.BUTTON4.CAPTION"
@@ -5631,7 +5631,7 @@ msgstr ""
 
 #: tfrmd3dtrainergeneratoroptions.label1.caption
 msgid "Transparency"
-msgstr "PrzezroczystoÅ›Ä‡"
+msgstr "Przezroczystoœæ"
 
 #: tfrmd3dtrainergeneratoroptions.label2.caption
 msgid "Position"
@@ -5639,7 +5639,7 @@ msgstr "Pozycja"
 
 #: tfrmd3dtrainergeneratoroptions.label3.caption
 msgid "Background picture:"
-msgstr "Obraz tÅ‚a:"
+msgstr "Obraz t³a:"
 
 #: tfrmd3dtrainergeneratoroptions.label4.caption
 msgid "Distance between lines in pixels"
@@ -6724,7 +6724,7 @@ msgstr "Adres"
 #: TFRMSTACKVIEW.LVSTACK.COLUMNS[1].CAPTION
 msgctxt "TFRMSTACKVIEW.LVSTACK.COLUMNS[1].CAPTION"
 msgid "Value"
-msgstr "Wartosc"
+msgstr "WartoÅ›Ä‡"
 
 #: TFRMSTACKVIEW.LVSTACK.COLUMNS[2].CAPTION
 msgid "Secondary"
@@ -10384,7 +10384,7 @@ msgstr "Zmien offset %s"
 
 #: valuechange.rspartofthestringisunreadable
 msgid "Part of the string is unreadable!"
-msgstr "Czesc ciÄ…gu jest nieczytelna!"
+msgstr "Czesc ci¹gu jest nieczytelna!"
 
 #: vartypestrings.rs_vtall
 msgid "All"
