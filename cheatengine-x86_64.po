@@ -3,7 +3,7 @@ msgstr "Content-Type: text/plain; charset=UTF-8"
 
 #: aboutunit.rsareyousureyouwanttolaunchdbvm
 msgid "Are you sure you want to launch DBVM? You seem to be running in 32-bit, so don't really need it that badly (Except for ultimap and cloaked operations)"
-msgstr "Jestes pewny ze chcesz wlaczyc DBVM? Prawdopodobnie dziala w wersjach 32-bitowych, ale nie mamy pewnosci czy dobrze (Moga byc bledy w ultimap i niewidzialnych operacjach)"
+msgstr "Jesteś pewny, że chcesz właczyć DBVM? Używasz 32 bitowego windowsa, więc raczej nie potrzebujesz DBVM (Chyba, że chcesz użyć ultimap albo chcesz zapobiec wykryciu debuggera)"
 
 #: aboutunit.rsdidyoureallythinkyoudfindaneastereggbydoingthiswel
 msgid "Did you really think you'd find an easter egg by doing this? Well, you know what? You where right!"
