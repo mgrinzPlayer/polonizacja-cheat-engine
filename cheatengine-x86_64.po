@@ -84,7 +84,7 @@ msgstr ""
 
 #: addaddress.rspleasefillinapointeraddress
 msgid "Please fill in a pointer address"
-msgstr "Prosze wypelnic wskaznik adresu"
+msgstr "Prosze wypełnić wskaznik adresu"
 
 #: addaddress.rsresultofnextpointer
 msgctxt "addaddress.rsresultofnextpointer"
@@ -121,12 +121,12 @@ msgstr "Adres"
 
 #: addresslist.rschangedescription
 msgid "Change Description"
-msgstr "Zmien opis"
+msgstr "Zmień opis"
 
 #: addresslist.rschangevalue
 msgctxt "addresslist.rschangevalue"
 msgid "Change Value"
-msgstr "Zmien wartosc"
+msgstr "Zmień wartosc"
 
 #: addresslist.rsdescription
 msgctxt "addresslist.rsdescription"
@@ -135,7 +135,7 @@ msgstr "Opis"
 
 #: addresslist.rsdoyouwanttodeletetheselectedaddress
 msgid "Do you want to delete the selected address%s?"
-msgstr "Jestes pewny ze chcesz usunac wybrany adres%?"
+msgstr "Jesteś pewny ze chcesz usunac wybrany adres%?"
 
 #: addresslist.rsnotallvaluetypescouldhandlethevalue
 msgid "Not all value types could handle the value %s"
@@ -174,11 +174,11 @@ msgstr "Czy na pewno chcesz usunac te wpisy?"
 #: advancedoptionsunit.rsdelete
 msgctxt "advancedoptionsunit.rsdelete"
 msgid "Delete"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: advancedoptionsunit.rsgivethenewnameofthisentry
 msgid "Give the new name of this entry"
-msgstr "Daj nowa nazwe do wpisu"
+msgstr "Daj nowa nazwę do wpisu"
 
 #: advancedoptionsunit.rsnewname
 msgid "New name"
@@ -225,7 +225,7 @@ msgstr "Kod :"
 
 #: advancedoptionsunit.strcouldntrestorecode
 msgid "Error when trying to restore this code!"
-msgstr "Blad, gdy probuje odnowic ten kod!"
+msgstr "Błąd, gdy probuje odnowic ten kod!"
 
 #: advancedoptionsunit.strcouldntwrite
 msgctxt "advancedoptionsunit.strcouldntwrite"
@@ -247,7 +247,7 @@ msgstr "Dowiedz sie, co ten kod wykonuje"
 
 #: advancedoptionsunit.strnamececode
 msgid "What name do you want to give this code?"
-msgstr "Jaka nazwe chcesz dac dla tego kodu?"
+msgstr "Jaka nazwę chcesz dac dla tego kodu?"
 
 #: advancedoptionsunit.strnotreadable
 msgid "This address is not readable"
@@ -263,7 +263,7 @@ msgstr "Ten region pamieci w tym adresie nie dziala jak ma dzialac! Kontynuowac?
 
 #: advancedoptionsunit.strpartofopcodeinthelist
 msgid "At least one of these bytes is already in the list"
-msgstr "Co najmniej jeden z tych bajtow jest ju� na liscie"
+msgstr "Co najmniej jeden z tych bajtów jest już na liscie"
 
 #: advancedoptionsunit.strselectexefor3d
 msgid "Select the executable of the Direct-3D game"
@@ -271,43 +271,43 @@ msgstr "Wybierz plik wspolpracujacy z Direct-3D"
 
 #: autoassembler.rscouldnotbefound
 msgid "%s could not be found"
-msgstr "%s nie mozna znalezc"
+msgstr "%s nie można znaleźć"
 
 #: autoassembler.rscouldnotbeinjected
 msgid "%s could not be injected"
-msgstr "%s nie moze byc zainjectowane"
+msgstr "%s nie może być zainjectowane"
 
 #: autoassembler.rsdefinealreadydefined
 msgid "Define %s already defined"
-msgstr "Okreslony %s jest juz zdefiniowany"
+msgstr "Określony %s jest już zdefiniowany"
 
 #: autoassembler.rserrorinline
 msgid "Error in line %s (%s) :%s"
-msgstr "Blad w lini %s (%s) :%s"
+msgstr "Bląd w linii %s (%s) :%s"
 
 #: autoassembler.rsfailuretoallocatememory
 msgid "Failure to allocate memory"
-msgstr "Zla alokacja pamieci"
+msgstr "Zła alokacja pamięci"
 
 #: autoassembler.rsforwardjumpwithnolabeldefined
 msgid "Forward jump with no label defined"
-msgstr "Forward skok bez okreslonej etykiety"
+msgstr "Forward jump nie ma określonej etykiety"
 
 #: autoassembler.rsinvalidaddressforreadmem
 msgid "Invalid address for ReadMem"
-msgstr "Zly adres dla ReadMem"
+msgstr "Zły adres w ReadMem"
 
 #: autoassembler.rsinvalidsizeforreadmem
 msgid "Invalid size for ReadMem"
-msgstr "Zla waga dla ReadMem"
+msgstr "Zła waga w ReadMem"
 
 #: autoassembler.rsisbeingredeclared
 msgid "%s is being redeclared"
-msgstr ""
+msgstr "%s jest już zredekralowane"
 
 #: autoassembler.rsisnotavalidbytestring
 msgid "%s is not a valid bytestring"
-msgstr "%s ma zly bytestring"
+msgstr "%s ma zły bytestring"
 
 #: autoassembler.rsisnotavalididentifier
 msgid "%s is not a valid identifier"
@@ -339,11 +339,11 @@ msgstr "Ta funkcja nie dziala bez sterownikow KALLOC"
 
 #: autoassembler.rssyntaxerror
 msgid "Syntax error"
-msgstr "Blad Syntax/skladni"
+msgstr "Błąd Syntax/skladni"
 
 #: autoassembler.rssyntaxerrorfullaccessaddresssize
 msgid "Syntax error. FullAccess(address,size)"
-msgstr "Blad Syntax/skladni. PelnyDostep(adres,waga)"
+msgstr "Błąd Syntax/skladni. PelnyDostep(adres,waga)"
 
 #: autoassembler.rstheaddressincreatethreadisnotvalid
 msgid "The address in createthread(%s) is not valid"
@@ -395,7 +395,7 @@ msgstr "Ten specyficzny adres jest nieprawidlowy"
 
 #: autoassembler.rsthiscodecanbeinjectedareyousure
 msgid "This code can be injected. Are you sure?"
-msgstr "Ten kod zostanie zainjectowany. Jestes pewny?"
+msgstr "Ten kod zostanie zainjectowany. Jesteś pewny?"
 
 #: autoassembler.rsthisinstructioncantbecompiled
 msgid "This instruction can't be compiled"
@@ -475,7 +475,7 @@ msgstr "Nie masz wybranej specyficznej sekcji"
 
 #: bigmemallochandler.rsallocerror
 msgid "VirtualAlloc failed. You probably don't have enough system memory free. Either install more RAM, or increase the maximum allowed paging size"
-msgstr "VirtualAlloc blad. Prawdopodobnie nie ma wystarczajacej ilosci wolnej pamieci systemowej. Zainstaluj wiecej RAM lub zmien maksymalny rozmiar stronicowania."
+msgstr "VirtualAlloc Błąd. Prawdopodobnie nie ma wystarczajacej ilosci wolnej pamieci systemowej. Zainstaluj wiecej RAM lub Zmień maksymalny rozmiar stronicowania."
 
 #: bigmemallochandler.rscepointerscanmemorymanager
 msgid "CE Pointerscan memory manager"
@@ -491,7 +491,7 @@ msgstr "Nie moglem dolaczyc debuggera do tego procesu! Mozna sprobowac otworzyc 
 
 #: cedebugger.rsdonotclosece
 msgid "If you close Cheat Engine while the game is running, the game will close too. Are you sure you want to do this?"
-msgstr "Jesli zamkniesz Cheat Engine gdy gra bedzie uruchomiona, gra tez sie wylaczy. Jestes pewny ze chcesz to zrobic?"
+msgstr "Jesli zamkniesz Cheat Engine gdy gra bedzie uruchomiona, gra tez sie wylaczy. Jesteś pewny ze chcesz to zrobic?"
 
 #: cedebugger.rspleasetargetanotherprocess
 msgid "Please target another process"
@@ -575,19 +575,19 @@ msgstr "Nie udalo sie wykonac funkcji DLL"
 
 #: cefuncproc.rsfailedinjectingthedll
 msgid "Failed injecting the DLL"
-msgstr "Blad injectowania DLL"
+msgstr "Błąd injectowania DLL"
 
 #: cefuncproc.rsfailedtoallocatememory
 msgid "Failed to allocate memory"
-msgstr "Blad w alokacji pamieci"
+msgstr "Błąd w alokacji pamieci"
 
 #: cefuncproc.rsfailedtoexecutethedllloader
 msgid "Failed to execute the dll loader"
-msgstr "Blad otwierania DLL"
+msgstr "Błąd otwierania DLL"
 
 #: cefuncproc.rsfailedtoinjectthedllloader
 msgid "Failed to inject the dll loader"
-msgstr "Blad injectu DLL"
+msgstr "Błąd injectu DLL"
 
 #: cefuncproc.rsgetprocaddressnotfound
 msgid "GetProcAddress not found"
@@ -735,7 +735,7 @@ msgstr ""
 
 #: cefuncproc.rsunknownerrorduringinjection
 msgid "Unknown error during injection"
-msgstr "Nieznany blad podczas injectowania"
+msgstr "Nieznany Błąd podczas injectowania"
 
 #: cefuncproc.rsuparrow
 msgctxt "cefuncproc.rsuparrow"
@@ -778,7 +778,7 @@ msgstr "Przywroc tylko typename, bytecount i functiontypename"
 #: customtypehandler.rsundefinederror
 msgctxt "customtypehandler.rsundefinederror"
 msgid "Undefined error"
-msgstr "Nieznany blad"
+msgstr "Nieznany Błąd"
 
 #: debuggertypedefinitions.rsbreak
 msgctxt "debuggertypedefinitions.rsbreak"
@@ -792,7 +792,7 @@ msgstr "Przerwa i sledzenie"
 
 #: debuggertypedefinitions.rschangereg
 msgid "Change reg"
-msgstr "Zmien reg"
+msgstr "Zmień reg"
 
 #: debuggertypedefinitions.rsfindcode
 msgid "Find code"
@@ -828,7 +828,7 @@ msgstr "AddBreakpoint: Nieprawidlowy rejestr, debug jest uzywany"
 
 #: debughelper.rsall4debugregistersarecurrentlyusedupfreeoneandtrya
 msgid "All 4 debug registers are currently used up. Free one and try again"
-msgstr "Wszystkie 4 rejestry debugowania sa obecnie wykorzystane. Zmien i sprobuj ponownie"
+msgstr "Wszystkie 4 rejestry debugowania sa obecnie wykorzystane. Zmień i sprobuj ponownie"
 
 #: debughelper.rsalldebugregistersareusedup
 msgid "All debug registers are used up"
@@ -840,11 +840,11 @@ msgstr ""
 
 #: debughelper.rscreateprocessfailed
 msgid "CreateProcess failed:%s"
-msgstr "Blad tworzenia procesu:%s"
+msgstr "Błąd tworzenia procesu:%s"
 
 #: debughelper.rsdebuggercrash
 msgid "Debugger Crash"
-msgstr "Blad Debuggera"
+msgstr "Błąd Debuggera"
 
 #: debughelper.rsdebuggerfailedtoattach
 msgid "Debugger failed to attach"
@@ -1108,7 +1108,7 @@ msgstr ""
 #: formhotkeyunit.rsdelete
 msgctxt "formhotkeyunit.rsdelete"
 msgid "Delete"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: formhotkeyunit.rsdownarrow
 msgctxt "formhotkeyunit.rsdownarrow"
@@ -1272,7 +1272,7 @@ msgstr ""
 
 #: formmemoryregionsunit.rsfailedtodelete
 msgid "Failed to delete %s"
-msgstr "Blad kasacji %s"
+msgstr "Błąd kasacji %s"
 
 #: formmemoryregionsunit.rsfree
 msgid "Free"
@@ -1373,11 +1373,11 @@ msgstr "Anuluj ten skan"
 
 #: formsettingsunit.rschangedvalue
 msgid "Changed Value"
-msgstr "Zmien wartosc"
+msgstr "Zmień wartosc"
 
 #: formsettingsunit.rschangetypeto
 msgid "Change type to"
-msgstr "Zmien typ do"
+msgstr "Zmień typ do"
 
 #: formsettingsunit.rsdebuggeroptions
 msgctxt "formsettingsunit.rsdebuggeroptions"
@@ -1551,7 +1551,7 @@ msgstr ""
 
 #: formsettingsunit.rsyouhaventselectedanymemorytypethiswillresultinchea
 msgid "You haven't selected any memory type. This will result in Cheat Engine finding NO memory! Are you stupid?"
-msgstr "Nie wybrano zadnego rodzaju pamieci. Spowoduje to w Cheat Engine nie znalezienie pamieci! Jestes glupi?"
+msgstr "Nie wybrano zadnego rodzaju pamieci. Spowoduje to w Cheat Engine nie znalezienie pamieci! Jesteś glupi?"
 
 #: formsettingsunit.strprocesswatcherwillpreventunloader
 msgid "Enabling the process watcher will prevent the unloader from working"
@@ -1565,12 +1565,12 @@ msgstr "Zamknij"
 #: foundlisthelper.rserror
 msgctxt "foundlisthelper.rserror"
 msgid "Error"
-msgstr "Blad"
+msgstr "Błąd"
 
 #: foundlisthelper.rsundefinederror
 msgctxt "foundlisthelper.rsundefinederror"
 msgid "Undefined error"
-msgstr "Nieznany blad"
+msgstr "Nieznany Błąd"
 
 #: frmadconfigunit.rspercentageshown
 msgid "Percentage shown"
@@ -1578,7 +1578,7 @@ msgstr "Pokazano procenty"
 
 #: frmautoinjectunit.rsareyousureyouwanttoclose
 msgid "Are you sure you want to close %s ?"
-msgstr "Jestes pewny ze chcesz to zamknac %s ?"
+msgstr "Jesteś pewny ze chcesz to zamknac %s ?"
 
 #: frmautoinjectunit.rsautoassembler
 msgid "Auto assembler"
@@ -1610,7 +1610,7 @@ msgstr "Wykonaj skrypt"
 
 #: frmautoinjectunit.rsfailedtoaddtotablenotallcodeisinjectable
 msgid "Failed to add to table. Not all code is injectable"
-msgstr "Blad podczas dodania do tabeli. Niecaly kod jest injectowany"
+msgstr "Błąd podczas dodania do tabeli. Niecaly kod jest injectowany"
 
 #: frmautoinjectunit.rsluafilter
 msgid "LUA Script (*.LUA)|*.LUA|All Files ( *.* )|*.*"
@@ -1622,7 +1622,7 @@ msgstr "LUA Skrypt"
 
 #: frmautoinjectunit.rsnotallcodeisinjectable
 msgid "Not all code is injectable. Are you sure you wan't to edit it to this?"
-msgstr "Nie wszystko jest do zainjectowania. Jestes pewny ze chcesz to edytowac?"
+msgstr "Nie wszystko jest do zainjectowania. Jesteś pewny ze chcesz to edytowac?"
 
 #: frmautoinjectunit.rsonwhataddressdoyouwantthejump
 msgid "On what address do you want the jump?"
@@ -1638,7 +1638,7 @@ msgstr ""
 
 #: frmcodecavescannerunit.rsclosingthiswindowwillalsostopthescannerareyousure
 msgid "Closing this window will also stop the scanner. Are you sure?"
-msgstr "Zamkniecie tego okna rowniez zatrzyma skaner. Jestes pewny?"
+msgstr "Zamkniecie tego okna rowniez zatrzyma skaner. Jesteś pewny?"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidsizeforthewantedcodecave
 msgid "Please provide a valid size for the wanted code cave"
@@ -1705,7 +1705,7 @@ msgstr "Generuj"
 
 #: frmexetrainergeneratorunit.rsiconupdateerror
 msgid "icon update error"
-msgstr "blad aktualizacji ikony"
+msgstr "Błąd aktualizacji ikony"
 
 #: frmexetrainergeneratorunit.rsmax
 msgctxt "frmexetrainergeneratorunit.rsmax"
@@ -1730,17 +1730,17 @@ msgstr "Tworzenie traineru zakonczone powodzeniem"
 
 #: frmfillmemoryunit.rspleasefillinavalidfillvalue
 msgid "Please fill in a valid 'Fill' value"
-msgstr "Prosze wypelnic prawidlowo 'Fill' wartosc"
+msgstr "Prosze wypełnić prawidlowo 'Fill' wartosc"
 
 #: frmfillmemoryunit.rspleasefillinavalidfromaddress
 msgctxt "frmfillmemoryunit.rspleasefillinavalidfromaddress"
 msgid "Please fill in a valid 'From' address"
-msgstr "Prosze wypelnic prawidlowo 'From' adres"
+msgstr "Prosze wypełnić prawidlowo 'From' adres"
 
 #: frmfillmemoryunit.rspleasefillinavalidtoaddress
 msgctxt "frmfillmemoryunit.rspleasefillinavalidtoaddress"
 msgid "Please fill in a valid 'To' address"
-msgstr "Prosze wypelnic prawidlowo 'To' adres"
+msgstr "Prosze wypełnić prawidlowo 'To' adres"
 
 #: frmfindstaticsunit.strscan
 msgctxt "frmfindstaticsunit.strscan"
@@ -1771,7 +1771,7 @@ msgstr ""
 
 #: frmluaengineunit.rserror
 msgid "Script Error"
-msgstr "Blad skryptu"
+msgstr "Błąd skryptu"
 
 #: frmmemoryallochandlerunit.rsfailuretoinitialize
 msgid "Failure to initialize"
@@ -1811,7 +1811,7 @@ msgstr ""
 
 #: frmmodifyregistersunit.rspleasefillinavalidvaluefor
 msgid "Please fill in a valid value for"
-msgstr "Prosze wypelnic prawidlowo wartosc dla"
+msgstr "Prosze wypełnić prawidlowo wartosc dla"
 
 #: frmpagingunit.rsfailurereadingphysicalmemory
 msgid "failure reading physical memory"
@@ -1855,7 +1855,7 @@ msgstr ""
 #: frmrescanpointerunit.rsremove
 msgctxt "frmrescanpointerunit.rsremove"
 msgid "Remove"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: frmsavememoryregionunit.rsisnotavalidaddress
 msgid "%s is not a valid address"
@@ -1886,7 +1886,7 @@ msgstr "Generuj string map"
 #: frmstringmapunit.rsnoreadablememoryfound
 msgctxt "frmstringmapunit.rsnoreadablememoryfound"
 msgid "No readable memory found"
-msgstr "Znaleziona nieczytelna pamiec "
+msgstr "Znaleziona nieczytelna pamięć "
 
 #: frmstringmapunit.rsstop
 msgctxt "frmstringmapunit.rsstop"
@@ -1941,7 +1941,7 @@ msgstr ""
 
 #: frmultimapunit.rsremovehotkey
 msgid "Remove hotkey (%s)"
-msgstr "Usun przycisk (%s)"
+msgstr "Usuń przycisk (%s)"
 
 #: guisafecriticalsection.rscriticalsectionleavewithoutenter
 msgid "Criticalsection leave without enter"
@@ -1957,7 +1957,7 @@ msgstr ""
 
 #: hexviewunit.rsbigfuckingerror
 msgid "Big fucking error"
-msgstr "Bardzo duzy blad"
+msgstr "Bardzo duzy Błąd"
 
 #: hexviewunit.rsexecute
 msgctxt "hexviewunit.rsexecute"
@@ -2081,7 +2081,7 @@ msgstr "Odmroz"
 
 #: iconstuff.rsfailureopen
 msgid "Failure opening "
-msgstr "Blad otwierania"
+msgstr "Błąd otwierania"
 
 #: iconstuff.rsiconpicker
 msgid "Icon picker"
@@ -2117,7 +2117,7 @@ msgstr "Dodatki adresu"
 
 #: luahandler.rsundefinedluaerror
 msgid "Undefined lua error"
-msgstr "Nieznany blad lua"
+msgstr "Nieznany Błąd lua"
 
 #: luasyntax.syns_attrluamstring
 msgid "LuaMString"
@@ -2147,15 +2147,15 @@ msgstr "Prima Aprilis!!!"
 #: mainunit.rsareyousureyouwanttodelete
 msgctxt "mainunit.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr "Jestes pewny ze chcesz usunac %s?"
+msgstr "Jesteś pewny ze chcesz usunac %s?"
 
 #: mainunit.rsareyousureyouwanttodeletethisform
 msgid "Are you sure you want to delete this form?"
-msgstr "jestes pewny ze chcesz usunac ta forme/uklad?"
+msgstr "Jesteś pewny ze chcesz usunac ta forme/uklad?"
 
 #: mainunit.rsareyousureyouwanttoerasethedatainthecurrenttable
 msgid "Are you sure you want to erase the data in the current table?"
-msgstr "Jestes pewny ze chcesz usunac cala tabele?"
+msgstr "Jesteś pewny ze chcesz usunac cala tabele?"
 
 #: mainunit.rsatleastxx
 msgid "at least xx%"
@@ -2193,7 +2193,7 @@ msgstr "W porownaniu do pierwszych wynikow skanu"
 #: mainunit.rsdelete
 msgctxt "mainunit.rsdelete"
 msgid "Delete"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: mainunit.rsdoyouwanttogotothecheatenginewebsite
 msgid "Do you want to go to the Cheat Engine website?"
@@ -2242,7 +2242,7 @@ msgstr ""
 
 #: mainunit.rsgivethenewfilename
 msgid "Give the new filename"
-msgstr "Nadaj nowa nazwe pliku"
+msgstr "Nadaj nowa nazwę pliku"
 
 #: mainunit.rsgroup
 msgid "Group %s"
@@ -2292,21 +2292,21 @@ msgstr "Poprzednia"
 
 #: mainunit.rsremoveselectedaddress
 msgid "Remove selected address"
-msgstr "Usun zaznaczone adresy"
+msgstr "Usuń zaznaczone adresy"
 
 #: mainunit.rsremoveselectedaddresses
 msgctxt "mainunit.rsremoveselectedaddresses"
 msgid "Remove selected addresses"
-msgstr "Usun zaznaczone adresy"
+msgstr "Usuń zaznaczone adresy"
 
 #: mainunit.rsrename
 msgctxt "mainunit.rsrename"
 msgid "Rename"
-msgstr "Zmien nazwe"
+msgstr "Zmień nazwę"
 
 #: mainunit.rsrenamefile
 msgid "Rename file"
-msgstr "Zmien nazwe pliku"
+msgstr "Zmień nazwę pliku"
 
 #: mainunit.rsrestoreandshow
 msgid "Restore and show"
@@ -2343,7 +2343,7 @@ msgstr "Wybierz zapisany wynik skanu z listy ponizej"
 
 #: mainunit.rssetchangehotkeys
 msgid "Set/Change hotkeys"
-msgstr "Wybierz/Zmien przycisk"
+msgstr "Wybierz/Zmień przycisk"
 
 #: mainunit.rsshowasbinary
 msgctxt "mainunit.rsshowasbinary"
@@ -2413,7 +2413,7 @@ msgstr "Jak ma sie zwac grupa?"
 
 #: mainunit.rswhatnamedoyouwanttogivetothesescanresults
 msgid "What name do you want to give to these scanresults?"
-msgstr "Jaka nazwe chcesz nadac wynikowi skanu?"
+msgstr "Jaka nazwę chcesz nadac wynikowi skanu?"
 
 #: mainunit.rswhatwillbethenewnameforthistab
 msgid "What will be the new name for this tab?"
@@ -2446,7 +2446,7 @@ msgstr "Nie zapisales ostatniej sesji. Zapisac teraz?"
 
 #: mainunit.strchange1value
 msgid "Change this value to:"
-msgstr "Zmien wartosc na:"
+msgstr "Zmień wartosc na:"
 
 #: mainunit.strchangedescription1
 msgctxt "mainunit.strchangedescription1"
@@ -2455,16 +2455,16 @@ msgstr "Opis"
 
 #: mainunit.strchangedescription2
 msgid "Change the description to:"
-msgstr "Zmien opis na:"
+msgstr "Zmień opis na:"
 
 #: mainunit.strchangemorevalues
 msgid "Change these values to:"
-msgstr "Zmien ta wartosc na:"
+msgstr "Zmień ta wartosc na:"
 
 #: mainunit.strchangescript
 msgctxt "mainunit.strchangescript"
 msgid "Change script"
-msgstr "Zmien skrypt"
+msgstr "Zmień skrypt"
 
 #: mainunit.strclicktogohome
 msgid "Click here to go to the Cheat Engine homepage"
@@ -2472,23 +2472,23 @@ msgstr "Kliknij tutaj, aby wejsc na strone domowa Cheat Engine"
 
 #: mainunit.strconfirmprocesstermination
 msgid "This will close the current process. Are you sure you want to do this?"
-msgstr "Spowoduje to zamkniecie procesu. Jestes pewny czy chcesz to zrobic?"
+msgstr "Spowoduje to zamkniecie procesu. Jesteś pewny czy chcesz to zrobic?"
 
 #: mainunit.strconfirmundo
 msgid "Do you really want to go back to the results of the previous scan?"
-msgstr "Jestes pewny ze chcesz przywrocic poprzednie wyniki skanu?"
+msgstr "Jesteś pewny ze chcesz przywrocic poprzednie wyniki skanu?"
 
 #: mainunit.strdeleteaddress
 msgid "Delete this address"
-msgstr "Usun ten adres"
+msgstr "Usuń ten adres"
 
 #: mainunit.strdeleteall
 msgid "Are you sure you want to delete all addresses?"
-msgstr "Jestes pewny ze chcesz usunac wszystkie adresy?"
+msgstr "Jesteś pewny ze chcesz usunac wszystkie adresy?"
 
 #: mainunit.strdeletetheseaddresses
 msgid "Delete these addresses"
-msgstr "Usun te adresy"
+msgstr "Usuń te adresy"
 
 #: mainunit.strdisablecheat
 msgid "Disable cheat"
@@ -2505,11 +2505,11 @@ msgstr "Wlacz cheat"
 #: mainunit.strerror
 msgctxt "mainunit.strerror"
 msgid "Error"
-msgstr "Blad"
+msgstr "Błąd"
 
 #: mainunit.strerrorwhileopeningprocess
 msgid "Error while opening this process"
-msgstr "Blad podczas otwierania tego procesu"
+msgstr "Błąd podczas otwierania tego procesu"
 
 #: mainunit.strforcerecheck
 msgctxt "mainunit.strforcerecheck"
@@ -2614,7 +2614,7 @@ msgstr "Rekalkuluj zaznaczone adresy"
 
 #: mainunit.strremovefromgroup
 msgid "Remove from group "
-msgstr "Usun z grupy"
+msgstr "Usuń z grupy"
 
 #: mainunit.strscantextcaptiontotext
 msgid "Text:"
@@ -2634,7 +2634,7 @@ msgstr "Znajdz w tekscie"
 
 #: mainunit.strselectedaddressisapointer
 msgid "The selected address is a pointer. Are you sure? (the base pointer will get the address)"
-msgstr "Zaznaczony adres jest wskaznikiem. Jestes pewny? (bazowy wskaznik bedzie mial dostep do adresu)"
+msgstr "Zaznaczony adres jest wskaznikiem. Jesteś pewny? (bazowy wskaznik bedzie mial dostep do adresu)"
 
 #: mainunit.strsethotkey
 msgid "Set a hotkey"
@@ -2676,7 +2676,7 @@ msgstr "Wartosc"
 
 #: mainunit.strwindowfailedtohide
 msgid "A window failed to hide"
-msgstr "Blad minimalizowania okna"
+msgstr "Błąd minimalizowania okna"
 
 #: mainunit.strxmess
 msgid "Merry christmas and happy new year"
@@ -2757,7 +2757,7 @@ msgstr "Dokladna wartosc"
 
 #: mainunit2.strfailedtoinitialize
 msgid "Failed to initialize the debugger"
-msgstr "Blad podczas inicjacji debuggera"
+msgstr "Błąd podczas inicjacji debuggera"
 
 #: mainunit2.strfirstscan
 msgctxt "mainunit2.strfirstscan"
@@ -2851,11 +2851,11 @@ msgstr "Pomiedzy %s"
 
 #: memorybrowserformunit.rschangedisplayfader
 msgid "Change display fader"
-msgstr "Zmien wyswietlanie suwaka"
+msgstr "Zmień wyswietlanie suwaka"
 
 #: memorybrowserformunit.rschangeregister
 msgid "Change register"
-msgstr "Zmien rejestracje"
+msgstr "Zmień rejestracje"
 
 #: memorybrowserformunit.rscheatenginesinglelingeassembler
 msgid "Cheat Engine single-line assembler"
@@ -2884,7 +2884,7 @@ msgstr "Czy chesz aktywowac funkcje DLLki?"
 
 #: memorybrowserformunit.rserrorallocatingmemory
 msgid "Error allocating memory!"
-msgstr "Blad alokacji pamieci!"
+msgstr "Błąd alokacji pamieci!"
 
 #: memorybrowserformunit.rsfillintheaddressyouwanttogoto
 msgid "Fill in the address you want to go to"
@@ -2896,7 +2896,7 @@ msgstr "Zdobadz kernel adres"
 
 #: memorybrowserformunit.rsgivethenameofthefunctionyouwanttofindcasesensitive
 msgid "Give the name of the function you want to find (Case sensitive,certain words can cause blue screens)"
-msgstr "Podaj nazwe funkcji, ktora chcesz znalezc (Wielkosc liter moze spowodowac niebieski ekran/ekran smierci)"
+msgstr "Podaj nazwę funkcji, ktora chcesz znalezc (Wielkosc liter moze spowodowac niebieski ekran/ekran smierci)"
 
 #: memorybrowserformunit.rsgotoaddress
 msgid "Goto Address"
@@ -3058,23 +3058,23 @@ msgstr "Wyniki o tej nazwie(%s) juz istnieja"
 
 #: memscan.rsdiskwriteerror
 msgid "Disk write error:%s"
-msgstr "Blad zapisu na dysku:%s"
+msgstr "Błąd zapisu na dysku:%s"
 
 #: memscan.rsdiskwriteerror2
 msgid "Disk Write Error:%s"
-msgstr "Blad zapisu na dysku:%s"
+msgstr "Błąd zapisu na dysku:%s"
 
 #: memscan.rserrorallocatingbytesfortheoldresults
 msgid "Error allocating %s bytes for the old results. buffersize=%s variablesize=%s"
-msgstr "Blad alokacji %s bitow dla starych wynikow. buffersize=%s variablesize=%s"
+msgstr "Błąd alokacji %s bitow dla starych wynikow. buffersize=%s variablesize=%s"
 
 #: memscan.rserrorwhenwhileloadingresult
 msgid "Error when while loading result"
-msgstr "Blad podczas wczytywania wynikow"
+msgstr "Błąd podczas wczytywania wynikow"
 
 #: memscan.rsfailedspawningthesavefirstscanthread
 msgid "Failed spawning the Save First Scan thread"
-msgstr "Blad podczas tworzenia watku Save First Scan"
+msgstr "Błąd podczas tworzenia watku Save First Scan"
 
 #: memscan.rsfailureallocatingmemoryforcopytriedallocatingkb
 msgid "Failure allocating memory for copy. Tried allocating %s KB"
@@ -3112,7 +3112,7 @@ msgstr "%s jest zla wartoscia"
 #: memscan.rsnoreadablememoryfound
 msgctxt "memscan.rsnoreadablememoryfound"
 msgid "No readable memory found"
-msgstr "Znaleziono nieczytelna pamiec"
+msgstr "Znaleziono nieczytelna pamięć"
 
 #: memscan.rsnotenoughdiskspacefortheaddressfile
 msgid "Not enough diskspace for the address file"
@@ -3136,7 +3136,7 @@ msgstr "Synchronizacja watkow"
 
 #: memscan.rstmpandundoarenamesthatmaynotbeusedtryanothername
 msgid "TMP and UNDO are names that may not be used. Try another name"
-msgstr "TMP i UNDO nie moga zostac uzyte. Wpisz inna nazwe"
+msgstr "TMP i UNDO nie moga zostac uzyte. Wpisz inna nazwę"
 
 #: memscan.rsunknown
 msgid "Unknown"
@@ -3172,19 +3172,19 @@ msgstr "Twoj CPU musi byc w stanie uruchomic DBVM aby uzyc tej funkcji"
 
 #: opensave.rsaskifstupid
 msgid "Generating a trainer with the current state of the cheat table will likely result in a completly useless trainer that does nothing. Are you sure?"
-msgstr "Generowanie trainera z tej tabeli bedzie prowadzic do zupelnie tego ze nic nie bedzie robil. Jestes pewny?"
+msgstr "Generowanie trainera z tej tabeli bedzie prowadzic do zupelnie tego ze nic nie bedzie robil. Jesteś pewny?"
 
 #: opensave.rsdoesntcontainneededinformationwheretoplacethememor
 msgid "%s doesn't contain needed information where to place the memory"
-msgstr "%s nie zawiera potrzebnych informacji gdzie umiescic pamiec"
+msgstr "%s nie zawiera potrzebnych informacji gdzie umiescic pamięć"
 
 #: opensave.rserrorexecutingthistablesluascript
 msgid "Error executing this table's lua script: %s"
-msgstr "Blad wykonywania tabeli LUA skryptu: %s"
+msgstr "Błąd wykonywania tabeli LUA skryptu: %s"
 
 #: opensave.rserrorsaving
 msgid "Error saving..."
-msgstr "Blad zapisywania..."
+msgstr "Błąd zapisywania..."
 
 #: opensave.rstheregionatwaspartiallyorcompletlyunreadable
 msgid "The region at %s was partially or completly unreadable"
@@ -3257,23 +3257,23 @@ msgstr "Bledy wlaczania %s"
 
 #: plugin.rserrorloadingonlydllfilesareallowed
 msgid "Error loading %s. Only DLL files are allowed"
-msgstr "Blad wczytywania %s. Tylko pliki DLL sa dozwolone"
+msgstr "Błąd wczytywania %s. Tylko pliki DLL sa dozwolone"
 
 #: plugin.rserrorloadingthedllismissingtheceplugin_getversione
 msgid "Error loading %s. The dll is missing the CEPlugin_GetVersion export"
-msgstr "Blad wczytywania %s. DLL brakuje CEPlugin_GetVersion export"
+msgstr "Błąd wczytywania %s. DLL brakuje CEPlugin_GetVersion export"
 
 #: plugin.rserrorloadingthedllismissingtheceplugin_getversionf
 msgid "Error loading %s. The dll is missing the CEPlugin_GetVersion function"
-msgstr "Blad wczytywania %s. DLL brakuje funkcji CEPlugin_GetVersion"
+msgstr "Błąd wczytywania %s. DLL brakuje funkcji CEPlugin_GetVersion"
 
 #: plugin.rserrorloadingthegetversionfunctionreturnedfalse
 msgid "Error loading %s. The GetVersion function returned FALSE"
-msgstr "Blad wczytywania %s. Funkcja GetVersion zwrocila FALSE"
+msgstr "Błąd wczytywania %s. Funkcja GetVersion zwrocila FALSE"
 
 #: plugin.rserrorloadingthisdllrequiresanewerversionofcetofunc
 msgid "Error loading %s. This dll requires a newer version of ce to function properly"
-msgstr "Blad wczytywania %s. Ta DLL wymaga najnowszej wersji CE aby funkcja dzialala poprawnie"
+msgstr "Błąd wczytywania %s. Ta DLL wymaga najnowszej wersji CE aby funkcja dzialala poprawnie"
 
 #: plugin.rsismissingtheceplugin_disablepluginexport
 msgid "%s is missing the CEPlugin_DisablePlugin export"
@@ -3302,7 +3302,7 @@ msgstr "Aktualny poziom"
 
 #: pointerscannerfrm.rserrorduringscan
 msgid "Error during scan"
-msgstr "Blad podczas skanowania"
+msgstr "Błąd podczas skanowania"
 
 #: pointerscannerfrm.rsevaluated
 msgid "Evaluated"
@@ -3422,7 +3422,7 @@ msgstr "Normalny"
 #: pointerscannersettingsfrm.rsremove
 msgctxt "pointerscannersettingsfrm.rsremove"
 msgid "Remove"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: pointerscannersettingsfrm.rstimecritical
 msgctxt "pointerscannersettingsfrm.rstimecritical"
@@ -3445,11 +3445,11 @@ msgstr "Brakuje Ci pamieci na skan"
 
 #: pointervaluelist.rspointervaluesetuperror
 msgid "Pointer value setup error"
-msgstr "Blad wartosci wskaznika"
+msgstr "Błąd wartosci wskaznika"
 
 #: processwindowunit.rsattachdebuggerornot
 msgid "Are you sure you want to attach the debugger and not just open this process? (You can later on always attach the debugger)"
-msgstr "Jestes pewny ze chcesz otworzyc proces razem z debuggerem? (Mozesz pozniej zamontowac debuggera) "
+msgstr "Jesteś pewny ze chcesz otworzyc proces razem z debuggerem? (Mozesz pozniej zamontowac debuggera) "
 
 #: processwindowunit.rscreateprocess
 msgctxt "processwindowunit.rscreateprocess"
@@ -3538,11 +3538,11 @@ msgstr "Zakoncz zapisywanie"
 
 #: savedscanhandler.rsfailureinfindinginthefirstscanresults
 msgid "Failure in finding %s in the first scan results"
-msgstr "Blad w poczatkowym znajdowaniu %s w Zacznij skanowanie"
+msgstr "Błąd w poczatkowym znajdowaniu %s w Zacznij skanowanie"
 
 #: savedscanhandler.rsfailureinfindinginthepreviousscanresults
 msgid "Failure in finding %s in the previous scan results"
-msgstr "Blad w poprzednim znajdowaniu %s w Zacznij skanowanie"
+msgstr "Błąd w poprzednim znajdowaniu %s w Zacznij skanowanie"
 
 #: savedscanhandler.rsinvalidorderofcallinggetpointertoaddress
 msgid "Invalid order of calling getpointertoaddress"
@@ -3558,11 +3558,11 @@ msgstr "Nie znaleziono wynikow podczas poczatkowego skanowania"
 
 #: speedhack2.rsfailureconfiguringspeedhackpart
 msgid "Failure configuring speedhack part"
-msgstr "Blad poczas konfiguracji speedacku"
+msgstr "Błąd poczas konfiguracji speedacku"
 
 #: speedhack2.rsfailureenablingspeedhackdllinjectionfailed
 msgid "Failure enabling speedhack. (DLL injection failed)"
-msgstr "Blad podczas wlaczania speedhacka. (DLL injection zakonczona niepowodzeniem)"
+msgstr "Błąd podczas wlaczania speedhacka. (DLL injection zakonczona niepowodzeniem)"
 
 #: speedhack2.rsfailuresettingspeed
 msgid "Failure setting speed"
@@ -3571,12 +3571,12 @@ msgstr "Zla konfiguracja szybkosci"
 #: structuresfrm.rsareyousureyouwanttodelete
 msgctxt "structuresfrm.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr "Jestes pewny ze chcesz to usunac %s?"
+msgstr "Jesteś pewny ze chcesz to usunac %s?"
 
 #: structuresfrm.rsareyousureyouwanttoremoveallstructures
 msgctxt "structuresfrm.rsareyousureyouwanttoremoveallstructures"
 msgid "Are you sure you want to remove all structures?"
-msgstr "Jestes pewny czy usunac cala strukture?"
+msgstr "Jesteś pewny czy usunac cala strukture?"
 
 #: structuresfrm.rsautogeneratedfor
 msgctxt "structuresfrm.rsautogeneratedfor"
@@ -3586,7 +3586,7 @@ msgstr "Automatycznie wygenerowane dla %s"
 #: structuresfrm.rschangegroup
 msgctxt "structuresfrm.rschangegroup"
 msgid "Change group"
-msgstr "Zmien grupe"
+msgstr "Zmień grupe"
 
 #: structuresfrm.rsdissectdata
 msgctxt "structuresfrm.rsdissectdata"
@@ -3596,7 +3596,7 @@ msgstr "Zle/Wnikliwe dane"
 #: structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype
 msgctxt "structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype"
 msgid "Do you want Cheat Engine to try and fill in the most basic types of the struct using the current address?"
-msgstr "Chcesz, aby sprobowa� i wypelnic najbardziej podstawe typy struktur wykorzystujacych aktualny adres?"
+msgstr "Chcesz, aby sprobował i wypełnić najbardziej podstawe typy struktur wykorzystujacych aktualny adres?"
 
 #: structuresfrm.rsfirstselectastructureyouwanttomodifyordefine
 msgctxt "structuresfrm.rsfirstselectastructureyouwanttomodifyordefine"
@@ -3611,12 +3611,12 @@ msgstr "Dodaj adres do tego elementu"
 #: structuresfrm.rsgivethenameforthisstructure
 msgctxt "structuresfrm.rsgivethenameforthisstructure"
 msgid "Give the name for this structure"
-msgstr "Dodaj nazwe dla tej struktury"
+msgstr "Dodaj nazwę dla tej struktury"
 
 #: structuresfrm.rsgivethenewnameofthisstructure
 msgctxt "structuresfrm.rsgivethenewnameofthisstructure"
 msgid "Give the new name of this structure"
-msgstr "Nadaj nowa nazwe dla tej struktury"
+msgstr "Nadaj nowa nazwę dla tej struktury"
 
 #: structuresfrm.rshowmanybytesdoyouwanttoshiftthisandfollowingoffset
 msgctxt "structuresfrm.rshowmanybytesdoyouwanttoshiftthisandfollowingoffset"
@@ -3626,17 +3626,17 @@ msgstr "Ile bajtow chcesz przeniesc na te offsety?"
 #: structuresfrm.rsihavenoideawhatmeans
 msgctxt "structuresfrm.rsihavenoideawhatmeans"
 msgid "I have no idea what %s means"
-msgstr "Nie mam zadnego pomyslu %s co trzeba zrobic"
+msgstr "Nie mam zadnego pomysłu %s co trzeba zrobic"
 
 #: structuresfrm.rslockmemory
 msgctxt "structuresfrm.rslockmemory"
 msgid "Lock memory"
-msgstr "Zablokuj pamiec"
+msgstr "Zablokuj pamięć"
 
 #: structuresfrm.rsmemorydissect
 msgctxt "structuresfrm.rsmemorydissect"
 msgid "Memory dissect"
-msgstr "Blad w pamieci"
+msgstr "Błąd w pamieci"
 
 #: structuresfrm.rsnewinterval
 msgctxt "structuresfrm.rsnewinterval"
@@ -3671,7 +3671,7 @@ msgstr "Przelicz strukture bazy"
 #: structuresfrm.rsrenamestructure
 msgctxt "structuresfrm.rsrenamestructure"
 msgid "Rename structure"
-msgstr "Zmien nazwe struktury"
+msgstr "Zmień nazwę struktury"
 
 #: structuresfrm.rsstructuredefine
 msgctxt "structuresfrm.rsstructuredefine"
@@ -3706,7 +3706,7 @@ msgstr "Nieznane rozszerzenie pliku"
 #: structuresfrm.rsunlockmemory
 msgctxt "structuresfrm.rsunlockmemory"
 msgid "Unlock memory"
-msgstr "Odblokuj pamiec"
+msgstr "Odblokuj pamięć"
 
 #: structuresfrm.rsunnamedstructure
 msgctxt "structuresfrm.rsunnamedstructure"
@@ -3736,12 +3736,12 @@ msgstr "Adres: Wartosc"
 #: structuresfrm2.rsareyousureyouwanttodelete
 msgctxt "structuresfrm2.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr "Jestes pewny ze chesz to skasowac %s?"
+msgstr "Jesteś pewny ze chesz to skasowac %s?"
 
 #: structuresfrm2.rsareyousureyouwanttoremoveallstructures
 msgctxt "structuresfrm2.rsareyousureyouwanttoremoveallstructures"
 msgid "Are you sure you want to remove all structures?"
-msgstr "Jestes pewny ze chcesz skasowac wszystkie struktury?"
+msgstr "Jesteś pewny że chcesz skasować wszystkie struktury?"
 
 #: structuresfrm2.rsautogeneratedfor
 msgctxt "structuresfrm2.rsautogeneratedfor"
@@ -3751,11 +3751,11 @@ msgstr "Wygenerowane automatycznie dla %s"
 #: structuresfrm2.rschangegroup
 msgctxt "structuresfrm2.rschangegroup"
 msgid "Change group"
-msgstr "Zmien grupe"
+msgstr "Zmień grupe"
 
 #: structuresfrm2.rschangegroup2
 msgid "Change Group"
-msgstr "Zmien grupe"
+msgstr "Zmień grupe"
 
 #: structuresfrm2.rscopy
 msgctxt "structuresfrm2.rscopy"
@@ -3769,17 +3769,17 @@ msgstr "Wytnij"
 
 #: structuresfrm2.rsdeleteaddress
 msgid "Delete address"
-msgstr "Usun adres"
+msgstr "Usuń adres"
 
 #: structuresfrm2.rsdissectdata
 msgctxt "structuresfrm2.rsdissectdata"
 msgid "Dissect Data"
-msgstr "Blad danych"
+msgstr "Błąd danych"
 
 #: structuresfrm2.rsdoyouwantcheatenginetotryandfillinthemostbasictype
 msgctxt "structuresfrm2.rsdoyouwantcheatenginetotryandfillinthemostbasictype"
 msgid "Do you want Cheat Engine to try and fill in the most basic types of the struct using the current address?"
-msgstr "Chcesz aby Cheat Engine sprobowal wypelnic najbardziej podstawowe typy struktur korzystajac z aktualnego adresu?"
+msgstr "Chcesz aby Cheat Engine spróbował wypełnić najbardziej podstawowe typy struktur korzystajac z aktualnego adresu?"
 
 #: structuresfrm2.rsfirstselectastructureyouwanttomodifyordefine
 msgctxt "structuresfrm2.rsfirstselectastructureyouwanttomodifyordefine"
@@ -3794,12 +3794,12 @@ msgstr "Dodaj adres dla tego elementu"
 #: structuresfrm2.rsgivethenameforthisstructure
 msgctxt "structuresfrm2.rsgivethenameforthisstructure"
 msgid "Give the name for this structure"
-msgstr "Dodaj nazwe tej strukturze"
+msgstr "Dodaj nazwę tej strukturze"
 
 #: structuresfrm2.rsgivethenewnameofthisstructure
 msgctxt "structuresfrm2.rsgivethenewnameofthisstructure"
 msgid "Give the new name of this structure"
-msgstr "Dodaj nowa nazwe tej strukturze"
+msgstr "Dodaj nową nazwę tej strukturze"
 
 #: structuresfrm2.rshowmanybytesdoyouwanttoshiftthisandfollowingoffset
 msgctxt "structuresfrm2.rshowmanybytesdoyouwanttoshiftthisandfollowingoffset"
@@ -3809,7 +3809,7 @@ msgstr ""
 #: structuresfrm2.rsihavenoideawhatmeans
 msgctxt "structuresfrm2.rsihavenoideawhatmeans"
 msgid "I have no idea what %s means"
-msgstr "Nie mam pomyslu co zrobic z %s"
+msgstr "Nie mam pomysłu co zrobic z %s"
 
 #: structuresfrm2.rslock
 msgid "Lock"
@@ -3818,12 +3818,12 @@ msgstr "Zablokuj"
 #: structuresfrm2.rslockmemory
 msgctxt "structuresfrm2.rslockmemory"
 msgid "Lock memory"
-msgstr "Zablokuj pamiec"
+msgstr "Zablokuj pamięć"
 
 #: structuresfrm2.rsmemorydissect
 msgctxt "structuresfrm2.rsmemorydissect"
 msgid "Memory dissect"
-msgstr "Wnikliwa pamiec"
+msgstr "Wnikliwa pamięć"
 
 #: structuresfrm2.rsnewinterval
 msgctxt "structuresfrm2.rsnewinterval"
@@ -3863,7 +3863,7 @@ msgstr "Przelicz struktury bazy"
 #: structuresfrm2.rsrenamestructure
 msgctxt "structuresfrm2.rsrenamestructure"
 msgid "Rename structure"
-msgstr "Zmien nazwe struktury"
+msgstr "Zmień nazwę struktury"
 
 #: structuresfrm2.rsstructuredefine
 msgctxt "structuresfrm2.rsstructuredefine"
@@ -3908,7 +3908,7 @@ msgstr "Nieznane rozszerzenie pliku"
 #: structuresfrm2.rsunlockmemory
 msgctxt "structuresfrm2.rsunlockmemory"
 msgid "Unlock memory"
-msgstr "Odblokuj pamiec"
+msgstr "Odblokuj pamięć"
 
 #: structuresfrm2.rsunnamedstructure
 msgctxt "structuresfrm2.rsunnamedstructure"
@@ -3932,7 +3932,7 @@ msgstr ""
 
 #: symbolconfigunit.rsareyousureyouwanttoremovethissymbolfromthelist
 msgid "Are you sure you want to remove this symbol from the list?"
-msgstr "Jestes pewny ze chcesz usunac ten znak z listy?"
+msgstr "Jesteś pewny ze chcesz usunac ten znak z listy?"
 
 #: symbolhandler.rsalreadyexists
 msgid "already exists"
@@ -3940,7 +3940,7 @@ msgstr "juz otworzone"
 
 #: symbolhandler.rserrorallocatingmemory
 msgid "Error allocating memory"
-msgstr "Blad alokacji pamieci"
+msgstr "Błąd alokacji pamieci"
 
 #: symbolhandler.rsfailuredeterminingwhatmeans
 msgid "Failure determining what %s means"
@@ -4074,7 +4074,7 @@ msgstr ""
 #: TADDFORM.BTNREMOVEOFFSET.CAPTION
 msgctxt "TADDFORM.BTNREMOVEOFFSET.CAPTION"
 msgid "Remove"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: TADDFORM.CAPTION
 msgid "Add address"
@@ -4236,7 +4236,7 @@ msgstr "Zaznacz plik co chcesz szukac"
 
 #: TADVANCEDOPTIONS.OPENTHEDISASSEMBLERHERE1.CAPTION
 msgid "Open the disassembler at this location"
-msgstr "Otworz w lokacji disassamblu"
+msgstr "Otwórz w lokacji disassamblu"
 
 #: TADVANCEDOPTIONS.PAUSEBUTTON.HINT
 msgctxt "TADVANCEDOPTIONS.PAUSEBUTTON.HINT"
@@ -4245,12 +4245,12 @@ msgstr "Pauzuj gre"
 
 #: TADVANCEDOPTIONS.REMOVE1.CAPTION
 msgid "Remove from list"
-msgstr "Usun z listy"
+msgstr "Usuń z listy"
 
 #: TADVANCEDOPTIONS.RENAME1.CAPTION
 msgctxt "TADVANCEDOPTIONS.RENAME1.CAPTION"
 msgid "Rename"
-msgstr "Zmien nazwe"
+msgstr "Zmień nazwę"
 
 #: TADVANCEDOPTIONS.REPLACEALL1.CAPTION
 msgid "Replace all"
@@ -4287,7 +4287,7 @@ msgstr ""
 
 #: TFORMADDRESSCHANGE.CAPTION
 msgid "Change address"
-msgstr "Zmien adres"
+msgstr "Zmień adres"
 
 #: TFORMADDRESSCHANGE.CBPOINTER.CAPTION
 msgctxt "TFORMADDRESSCHANGE.CBPOINTER.CAPTION"
@@ -4686,7 +4686,7 @@ msgstr ""
 #: TFORMFOUNDCODELISTEXTRA.SBSHOWSTACK.HINT
 msgctxt "TFORMFOUNDCODELISTEXTRA.SBSHOWSTACK.HINT"
 msgid "Stack view"
-msgstr "Pokaz stos"
+msgstr "Pokaż stos"
 
 #: TFORMSETTINGS.ABOUTLABEL.CAPTION
 msgid "About CE"
@@ -4703,16 +4703,16 @@ msgstr "Opcje debuggu"
 
 #: TFORMSETTINGS.BTNEXCLUDEPROCESSES.CAPTION
 msgid "More..."
-msgstr "Wiecej..."
+msgstr "Więcej..."
 
 #: TFORMSETTINGS.BTNSETTOOLSHORTCUT.CAPTION
 msgid "Set shortcut"
-msgstr "Ustaw skrot"
+msgstr "Ustaw skrót"
 
 #: TFORMSETTINGS.BTNTOOLDELETE.CAPTION
 msgctxt "TFORMSETTINGS.BTNTOOLDELETE.CAPTION"
 msgid "Delete"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: TFORMSETTINGS.BTNTOOLNEW.CAPTION
 msgctxt "TFORMSETTINGS.BTNTOOLNEW.CAPTION"
@@ -4736,7 +4736,7 @@ msgstr "Dodaj nowe"
 #: TFORMSETTINGS.BUTTON5.CAPTION
 msgctxt "TFORMSETTINGS.BUTTON5.CAPTION"
 msgid "Delete"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: TFORMSETTINGS.CAPTION
 msgid "Cheat Engine settings"
@@ -4744,7 +4744,7 @@ msgstr "Ustawienia Cheat Engine"
 
 #: TFORMSETTINGS.CBALLINCLUDESCUSTOMTYPE.CAPTION
 msgid "Custom types are included with the ALL scan variabletype"
-msgstr "Niestandardowe typy s� dolaczone z opcja ALL scan variablatype"
+msgstr "Niestandardowe typy są dołączone z opcją ALL scan variablatype"
 
 #: TFORMSETTINGS.CBALWAYSAUTOATTACH.CAPTION
 msgid "Even autoattach when another process has already been selected"
@@ -4764,19 +4764,19 @@ msgstr "Zdolny do czynnosci za pomoca kernel code"
 
 #: TFORMSETTINGS.CBCENTERONPOPUP.CAPTION
 msgid "Center Cheat Engine when bringing to front"
-msgstr "Centruj Cheat Engine gdy przeniesie sie na brzeg"
+msgstr "Centruj Cheat Engine gdy przeniesie się na brzeg"
 
 #: TFORMSETTINGS.CBDONTUSETEMPDIR.CAPTION
 msgid "Don't store the temporary scanfiles in the windows tempdir"
-msgstr "Nie przechwytuj tymczasowych skanow do widowsowego Tempu"
+msgstr "Nie przechwytuj tymczasowych skanów do widowsowego Tempu"
 
 #: TFORMSETTINGS.CBFASTSCAN.CAPTION
 msgid "Fast scan on by default"
-msgstr "Szybki skan jako domyslny"
+msgstr "Szybki skan jako domyślny"
 
 #: TFORMSETTINGS.CBGLOBALDEBUG.CAPTION
 msgid "Use Global Debug routines"
-msgstr "Uzyj globalnych procedur Debug routines"
+msgstr "Użyj globalnych procedur Debug routines"
 
 #: TFORMSETTINGS.CBHANDLEBREAKPOINTS.CAPTION
 msgid "Handle beakpoints not caused by CE"
@@ -4784,20 +4784,20 @@ msgstr "Uchwyt beakpoints nie jest spowodowany przez CE"
 
 #: TFORMSETTINGS.CBHIDEALLWINDOWS.CAPTION
 msgid "Hide some/all windows instead of trying to bring cheat engine to front"
-msgstr "Ukryj pare/wszystkie okna gdy cheat engine przeniesie sie na brzeg"
+msgstr "Ukryj parę/wszystkie okna gdy cheat engine przeniesie się na brzeg"
 
 #: TFORMSETTINGS.CBINCREMENTAL.CAPTION
 msgid "Incremental value"
-msgstr "Przyrost wartosci"
+msgstr "Przyrost wartości"
 
 #: TFORMSETTINGS.CBKDEBUG.CAPTION
 msgid "Use kernelmode debugger"
-msgstr "Uzyj kernelmode debugger"
+msgstr "Użyj kernelmode debugger"
 
 #: TFORMSETTINGS.CBKERNELOPENPROCESS.CAPTION
 msgctxt "TFORMSETTINGS.CBKERNELOPENPROCESS.CAPTION"
 msgid "Open Process"
-msgstr "Otworz proces"
+msgstr "Otwórz proces"
 
 #: TFORMSETTINGS.CBKERNELQUERYMEMORYREGION.CAPTION
 msgid "Query memory region routines"
@@ -4817,7 +4817,7 @@ msgstr ""
 
 #: TFORMSETTINGS.CBMEMPRIVATE.CAPTION
 msgid "MEM_PRIVATE:Memory that is private."
-msgstr "MEM_PRIVATE:Ta pamiec jest prywatna."
+msgstr "MEM_PRIVATE:Ta pamięć jest prywatna."
 
 #: TFORMSETTINGS.CBOLDPOINTERADDMETHOD.CAPTION
 msgid "Pointer adding: Append pointerline instead of insert"
@@ -4829,15 +4829,15 @@ msgstr "Zastap istniejace breakpoints gdy sa ustawione"
 
 #: TFORMSETTINGS.CBPROCESSICONS.CAPTION
 msgid "Get process icons for processlist"
-msgstr "Pobierz ikony procesu do listy procesow"
+msgstr "Pobierz ikony procesu do listy procesów"
 
 #: TFORMSETTINGS.CBPROCESSICONSONLY.CAPTION
 msgid "Only show processes with an icon"
-msgstr "Pokaz tylko procesy z ikona"
+msgstr "Pokaż tylko procesy z ikoną"
 
 #: TFORMSETTINGS.CBPROCESSWATCHER.CAPTION
 msgid "Enable use of the Process Watcher"
-msgstr "Wlacz korzystanie z Process Watcher"
+msgstr "Włącz korzystanie z Process Watcher"
 
 #: TFORMSETTINGS.CBSAVEWINDOWPOS.CAPTION
 msgid "Save window positions"
@@ -4845,27 +4845,27 @@ msgstr "Zapisz pozycje okien"
 
 #: TFORMSETTINGS.CBSHOWALLWINDOWS.CAPTION
 msgid "Show all windows in the taskbar"
-msgstr "Pokaz wszystkie okna na pasku zadan"
+msgstr "Pokaż wszystkie okna na pasku zadań"
 
 #: TFORMSETTINGS.CBSHOWASSIGNED.CAPTION
 msgid "Show values as if they are signed"
-msgstr "Pokaz wartosci, jak gdyby zostaly podpisane"
+msgstr "Pokaż wartości, jak gdyby zostały nadpisane"
 
 #: TFORMSETTINGS.CBSHOWMAINMENU.CAPTION
 msgid "Show main menu"
-msgstr "Pokaz menu glowne"
+msgstr "Pokaż menu główne"
 
 #: TFORMSETTINGS.CBSHOWPROCESSLIST.CAPTION
 msgid "Show process list in main menu"
-msgstr "Pokaz liste procesow w menu glownym"
+msgstr "Pokaż listę procesów w menu głównym"
 
 #: TFORMSETTINGS.CBSHOWTOOLS.CAPTION
 msgid "Show 'tools' menu item"
-msgstr "Pokaz 'narzedzia' w menu narzedzi"
+msgstr "Pokaż 'narzędzia' w menu narzędzi"
 
 #: TFORMSETTINGS.CBSHOWUNDO.CAPTION
 msgid "Show undo button"
-msgstr "Pokaz przycisk cofania"
+msgstr "Pokaż przycisk cofania"
 
 #: TFORMSETTINGS.CBSIMPLECOPYPASTE.CAPTION
 msgid "Simple paste"
@@ -4873,7 +4873,7 @@ msgstr "Proste wklejanie"
 
 #: TFORMSETTINGS.CBSKIP_PAGE_NOCACHE.CAPTION
 msgid "Don't scan memory that is protected with the No Cache option"
-msgstr "Nie skanuj pamieci, ktora jest chroniona opcja No Cache"
+msgstr "Nie skanuj pamięci, która jest chroniona opcją No Cache"
 
 #: TFORMSETTINGS.CBSKIP_PAGE_NOCACHE.HINT
 msgid "Some systems crash when trying to read memory with this protection. If that happens check this option."
@@ -4881,11 +4881,11 @@ msgstr "Niektore systemy sie crashuja podczas czytania zabezpieczonej pamieci. J
 
 #: TFORMSETTINGS.CBUPDATEFOUNDLIST.CAPTION
 msgid "Update the list of found addresses even after scanning"
-msgstr "Zaktualizuj liste adresow znalezionych nawet po skanowaniu"
+msgstr "Zaktualizuj listę adresów znalezionych nawet po skanowaniu"
 
 #: TFORMSETTINGS.CBUSEVEHDEBUGGER.CAPTION
 msgid "Use VEH Debugger"
-msgstr "Uzyj VEH Debugger"
+msgstr "Użyj VEH Debugger"
 
 #: TFORMSETTINGS.CBUSEWINDOWSDEBUGGER.CAPTION
 msgid "Use windows debugger"
@@ -4893,7 +4893,7 @@ msgstr "Uzyj windowsowego debuggera"
 
 #: TFORMSETTINGS.CHECKBOX1.CAPTION
 msgid "Try to prevent detection of the debugger"
-msgstr "Sprobuj uniknac wykrycia debuggera"
+msgstr "Spróbuj uniknac wykrycia debuggera"
 
 #: TFORMSETTINGS.CHECKBOX3.CAPTION
 msgid "Use APC to inject dll's"
@@ -4919,7 +4919,7 @@ msgstr "Domyslny"
 
 #: TFORMSETTINGS.EDITAUTOATTACH.HINT
 msgid "Type the name of the process you want to automatically open. Note: Only works when NO process has been opened yet"
-msgstr "Wpisz nazwe procesu, ktory chcesz, aby automatycznie otworzyc. Uwaga: Dziala tylko, gdy proces nie jest jeszcze wlaczony"
+msgstr "Wpisz nazwę procesu, ktory chcesz, aby automatycznie otworzyc. Uwaga: Dziala tylko, gdy proces nie jest jeszcze wlaczony"
 
 #: TFORMSETTINGS.EDITBUFSIZE.TEXT
 msgid "1024"
@@ -5328,7 +5328,7 @@ msgstr "Injectuj wybrany proces i executuj"
 #: TFRMAUTOINJECT.LOAD1.CAPTION
 msgctxt "TFRMAUTOINJECT.LOAD1.CAPTION"
 msgid "Open"
-msgstr "Otworz"
+msgstr "Otwórz"
 
 #: TFRMAUTOINJECT.MINEWWINDOW.CAPTION
 msgctxt "TFRMAUTOINJECT.MINEWWINDOW.CAPTION"
@@ -5371,7 +5371,7 @@ msgstr "Zapisz jako..."
 #: TFRMAUTOINJECT.SAVEDIALOG1.TITLE
 msgctxt "TFRMAUTOINJECT.SAVEDIALOG1.TITLE"
 msgid "Open CE assembly file"
-msgstr "Otworz plik CE assembly"
+msgstr "Otwórz plik CE assembly"
 
 #: TFRMAUTOINJECT.SYNTAXHIGHLIGHTING1.CAPTION
 msgid "Syntax highlighting"
@@ -5434,15 +5434,15 @@ msgstr "Wylacz breakpoint"
 
 #: tfrmbreakpointlist.midelbreakpoint.caption
 msgid "Delete breakpoint"
-msgstr "Usun breakpoint"
+msgstr "Usuń breakpoint"
 
 #: tfrmbreakpointlist.mipagewide.caption
 msgid "Change to pagewide breakpoint"
-msgstr "Zmien na pagewide breakpoint"
+msgstr "Zmień na pagewide breakpoint"
 
 #: tfrmbreakpointlist.misetcondition.caption
 msgid "Set/change condition"
-msgstr "Wybierz/zmien stan"
+msgstr "Wybierz/Zmień stan"
 
 #: tfrmbreakpointlist.mishowshadow.caption
 msgid "Show shadow breakpoints"
@@ -5801,7 +5801,7 @@ msgstr ""
 
 #: TFRMDISSECTWINDOW.BUTTON6.CAPTION
 msgid "Change text"
-msgstr "Zmien tekst"
+msgstr "Zmień tekst"
 
 #: TFRMDISSECTWINDOW.CAPTION
 msgctxt "TFRMDISSECTWINDOW.CAPTION"
@@ -5841,11 +5841,11 @@ msgstr "Generuj"
 
 #: TFRMEXETRAINERGENERATOR.BTNREMOVEFILE.CAPTION
 msgid "Remove file"
-msgstr "Usun plik"
+msgstr "Usuń plik"
 
 #: TFRMEXETRAINERGENERATOR.BUTTON1.CAPTION
 msgid "Change EXE Icon"
-msgstr "Zmien ikone EXE"
+msgstr "Zmień ikone EXE"
 
 #: TFRMEXETRAINERGENERATOR.BUTTON3.CAPTION
 msgid "Add folder"
@@ -6110,7 +6110,7 @@ msgstr "Nowe okno"
 
 #: TFRMLUAENGINE.MENUITEM2.CAPTION
 msgid "Open script"
-msgstr "Otworz skrypt"
+msgstr "Otwórz skrypt"
 
 #: TFRMLUAENGINE.MENUITEM3.CAPTION
 msgid "Save current script"
@@ -6267,7 +6267,7 @@ msgstr "Adres:"
 #: tfrmmemoryviewex.menuitem1.caption
 msgctxt "TFRMMEMORYVIEWEX.MENUITEM1.CAPTION"
 msgid "Change address"
-msgstr "Zmien adres"
+msgstr "Zmień adres"
 
 #: tfrmmemoryviewex.rband.caption
 msgctxt "TFRMMEMORYVIEWEX.RBAND.CAPTION"
@@ -6329,7 +6329,7 @@ msgstr "Nowe"
 #: TFRMPOINTERSCANNER.OPEN1.CAPTION
 msgctxt "TFRMPOINTERSCANNER.OPEN1.CAPTION"
 msgid "Open"
-msgstr "Otworz"
+msgstr "Otwórz"
 
 #: TFRMPOINTERSCANNER.POINTERSCANNER1.CAPTION
 msgid "Pointer scanner"
@@ -6337,7 +6337,7 @@ msgstr "Skanowanie Wskaznikow"
 
 #: TFRMPOINTERSCANNER.RESCANMEMORY1.CAPTION
 msgid "Rescan memory - Removes pointers not pointing to the right address"
-msgstr "Przeskanuj pamiec - Usuwa wskazniki nie wskazujace na wlasciwy adres"
+msgstr "Przeskanuj pamięć - Usuwa wskazniki nie wskazujace na wlasciwy adres"
 
 #: TFRMPOINTERSCANNER.RESYNCMODULELIST1.CAPTION
 msgid "Resync modulelist"
@@ -6345,7 +6345,7 @@ msgstr "Zsynchonizuj liste modulow"
 
 #: TFRMPOINTERSCANNER.SAVEDIALOG1.TITLE
 msgid "Specify the filename you want to store the results"
-msgstr "Okresl nazwe pliku ktora chcesz zapisac w wynikach"
+msgstr "Okresl nazwę pliku ktora chcesz zapisac w wynikach"
 
 #: TFRMPOINTERSCANNER.TSPSREVERSE.CAPTION
 msgid "tsPSReverse"
@@ -6691,7 +6691,7 @@ msgstr "Konfiguracja"
 
 #: tfrmsnapshothandler.menuitem4.caption
 msgid "Open snapshot(s)"
-msgstr "Otworz snapshot(y)"
+msgstr "Otwórz snapshot(y)"
 
 #: tfrmsnapshothandler.menuitem8.caption
 msgid "Clear List"
@@ -6787,12 +6787,12 @@ msgstr ""
 #: TFRMSTRINGMAP.CBCASESENSITIVE.CAPTION
 msgctxt "TFRMSTRINGMAP.CBCASESENSITIVE.CAPTION"
 msgid "Case sensitive"
-msgstr "Wrazliwy na klawisze"
+msgstr "Wrażliwy na klawisze"
 
 #: TFRMSTRINGMAP.CBMUSTBESTART.CAPTION
 msgctxt "TFRMSTRINGMAP.CBMUSTBESTART.CAPTION"
 msgid "Must be start"
-msgstr ""
+msgstr "Należy rozpocząć"
 
 #: TFRMSTRINGMAP.CBREGEXP.CAPTION
 msgctxt "TFRMSTRINGMAP.CBREGEXP.CAPTION"
@@ -6830,7 +6830,7 @@ msgstr "Wyczulony na wielkosc liter"
 
 #: TFRMSTRINGPOINTERSCAN.CBMAPPOINTERVALUES.CAPTION
 msgid "Store values during scan"
-msgstr ""
+msgstr "Przechowują wartości podczas skanowania"
 
 #: TFRMSTRINGPOINTERSCAN.CBMAPPOINTERVALUES.HINT
 msgid "During the scan the values of pointer will be stored in memory for quick lookup when the same address is encountered again"
@@ -6839,11 +6839,11 @@ msgstr ""
 #: TFRMSTRINGPOINTERSCAN.CBMUSTBESTART.CAPTION
 msgctxt "TFRMSTRINGPOINTERSCAN.CBMUSTBESTART.CAPTION"
 msgid "Must be start"
-msgstr "Musi byc rozpoczety"
+msgstr "Należy rozpocząć"
 
 #: TFRMSTRINGPOINTERSCAN.CBPOINTERINRANGE.CAPTION
 msgid "Pointer must be in range"
-msgstr "Wskazniki musza znajdowac sie w zasiegu"
+msgstr "Wskaźniki muszą znajdować się w zasięgu"
 
 #: TFRMSTRINGPOINTERSCAN.CBREGEXP.CAPTION
 msgctxt "TFRMSTRINGPOINTERSCAN.CBREGEXP.CAPTION"
@@ -6890,7 +6890,7 @@ msgstr ""
 
 #: TFRMSTRINGPOINTERSCAN.LBLCOMPARE.CAPTION
 msgid "Compare type"
-msgstr "Porownaj typ"
+msgstr "Porównaj typ"
 
 #: TFRMSTRINGPOINTERSCAN.LBLEXTRA.CAPTION
 msgid "Compare against"
@@ -6928,7 +6928,7 @@ msgstr "Nowy skan"
 #: TFRMSTRINGPOINTERSCAN.MENUITEM3.CAPTION
 msgctxt "TFRMSTRINGPOINTERSCAN.MENUITEM3.CAPTION"
 msgid "Open"
-msgstr "Otworz"
+msgstr "Otwórz"
 
 #: TFRMSTRINGPOINTERSCAN.MENUITEM4.CAPTION
 msgctxt "TFRMSTRINGPOINTERSCAN.MENUITEM4.CAPTION"
@@ -7032,12 +7032,12 @@ msgstr ""
 #: TFRMSTRUCTURES.CAPTION
 msgctxt "TFRMSTRUCTURES.CAPTION"
 msgid "Memory dissect"
-msgstr "Analizuj pamiec"
+msgstr "Analizuj pamięć"
 
 #: TFRMSTRUCTURES.CHANGEELEMENT1.CAPTION
 msgctxt "TFRMSTRUCTURES.CHANGEELEMENT1.CAPTION"
 msgid "Change element"
-msgstr "Zmien element"
+msgstr "Zmień element"
 
 #: TFRMSTRUCTURES.COMMANDS1.CAPTION
 msgctxt "TFRMSTRUCTURES.COMMANDS1.CAPTION"
@@ -7062,11 +7062,11 @@ msgstr "Zdefiniuj nowa strukture"
 #: TFRMSTRUCTURES.DELETECURRENTSTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES.DELETECURRENTSTRUCTURE1.CAPTION"
 msgid "Delete structure"
-msgstr "Usun strukture"
+msgstr "Usuń strukture"
 
 #: TFRMSTRUCTURES.DELETEELEMENT1.CAPTION
 msgid "Delete element"
-msgstr "Usun element"
+msgstr "Usuń element"
 
 #: TFRMSTRUCTURES.EDTADDRESS.TEXT
 msgctxt "TFRMSTRUCTURES.EDTADDRESS.TEXT"
@@ -7130,12 +7130,12 @@ msgstr ""
 #: TFRMSTRUCTURES.MICHANGECOLORS.CAPTION
 msgctxt "TFRMSTRUCTURES.MICHANGECOLORS.CAPTION"
 msgid "Change colors"
-msgstr "Zmien kolory"
+msgstr "Zmień kolory"
 
 #: TFRMSTRUCTURES.MILOCKMEM.CAPTION
 msgctxt "TFRMSTRUCTURES.MILOCKMEM.CAPTION"
 msgid "Lock memory"
-msgstr "Zablokuj pamiec"
+msgstr "Zablokuj pamięć"
 
 #: TFRMSTRUCTURES.MISAVETOCT.CAPTION
 msgid "Save this structure in CT"
@@ -7214,12 +7214,12 @@ msgstr "Przelicz adres"
 #: TFRMSTRUCTURES.REMOVE1.CAPTION
 msgctxt "TFRMSTRUCTURES.REMOVE1.CAPTION"
 msgid "Remove"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: TFRMSTRUCTURES.RENAMESTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES.RENAMESTRUCTURE1.CAPTION"
 msgid "Rename structure"
-msgstr "Zmien nazwe struktury"
+msgstr "Zmień nazwę struktury"
 
 #: TFRMSTRUCTURES.SAVE1.CAPTION
 msgctxt "TFRMSTRUCTURES.SAVE1.CAPTION"
@@ -7262,7 +7262,7 @@ msgstr "Zdefiniuj nowa strukture"
 #: TFRMSTRUCTURES2.DELETECURRENTSTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES2.DELETECURRENTSTRUCTURE1.CAPTION"
 msgid "Delete structure"
-msgstr "Usun sktrukture"
+msgstr "Usuń sktrukture"
 
 #: TFRMSTRUCTURES2.FILE1.CAPTION
 msgctxt "TFRMSTRUCTURES2.FILE1.CAPTION"
@@ -7363,17 +7363,17 @@ msgstr "Ustawienia"
 #: TFRMSTRUCTURES2.MICHANGEELEMENT.CAPTION
 msgctxt "TFRMSTRUCTURES2.MICHANGEELEMENT.CAPTION"
 msgid "Change element"
-msgstr "Zmien element"
+msgstr "Zmień element"
 
 #: TFRMSTRUCTURES2.MICHANGEVALUE.CAPTION
 msgctxt "TFRMSTRUCTURES2.MICHANGEVALUE.CAPTION"
 msgid "Change value"
-msgstr "Zmien wartosc"
+msgstr "Zmień wartosc"
 
 #: TFRMSTRUCTURES2.MICLEAR.CAPTION
 msgctxt "TFRMSTRUCTURES2.MICLEAR.CAPTION"
 msgid "Delete all structures"
-msgstr "Usun wszystkie struktury"
+msgstr "Usuń wszystkie struktury"
 
 #: TFRMSTRUCTURES2.MICOMMANDS.CAPTION
 msgctxt "TFRMSTRUCTURES2.MICOMMANDS.CAPTION"
@@ -7390,7 +7390,7 @@ msgstr "Nowe liczby domyslne jako HEX"
 
 #: TFRMSTRUCTURES2.MIDELETEELEMENT.CAPTION
 msgid "Delete element(s)"
-msgstr "Usun element(y)"
+msgstr "Usuń element(y)"
 
 #: TFRMSTRUCTURES2.MIDONOTSAVELOCAL.CAPTION
 msgctxt "TFRMSTRUCTURES2.MIDONOTSAVELOCAL.CAPTION"
@@ -7502,7 +7502,7 @@ msgstr ""
 #: TFRMSTRUCTURES2.RENAMESTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES2.RENAMESTRUCTURE1.CAPTION"
 msgid "Rename structure"
-msgstr "Zmien nazwe struktury"
+msgstr "Zmień nazwę struktury"
 
 #: TFRMSTRUCTURES2.SAVE1.CAPTION
 msgctxt "TFRMSTRUCTURES2.SAVE1.CAPTION"
@@ -7865,7 +7865,7 @@ msgstr "Zawin wszystko"
 
 #: tfrmtracer.miload.caption
 msgid "Open trace"
-msgstr "Otworz trace"
+msgstr "Otwórz trace"
 
 #: tfrmtracer.misave.caption
 msgid "Save trace"
@@ -7945,7 +7945,7 @@ msgstr "Nieprawidlowe adresy (spowalnia)"
 
 #: tfrmtracerconfig.cbsavestack.caption
 msgid "Save stack snapshots (Eats memory)"
-msgstr "Zapisz zrzuty stosu (Zzera pamiec/Posilki pamieci)"
+msgstr "Zapisz zrzuty stosu (Zzera pamięć/Posilki pamieci)"
 
 #: tfrmtracerconfig.cbstepover.caption
 msgid "Step over instead of single step"
@@ -7980,7 +7980,7 @@ msgstr "Dodaj opcje"
 
 #: TFRMTRAINERGENERATOR.BTNDELETE.CAPTION
 msgid "Delete Hotkey"
-msgstr "Usun opcje"
+msgstr "Usuń opcje"
 
 #: TFRMTRAINERGENERATOR.BTNDESIGNFORM.CAPTION
 msgid "Design userinterface manually"
@@ -8140,7 +8140,7 @@ msgstr "Edytuj"
 
 #: TFRMTRAINERGENERATOR.OPENDIALOG2.TITLE
 msgid "Open icon file"
-msgstr "Otworz ikone pliku"
+msgstr "Otwórz ikone pliku"
 
 #: TFRMTRAINERGENERATOR.RBSTOPWHENATTACHED.CAPTION
 msgid "Game has been attached"
@@ -8299,7 +8299,7 @@ msgstr "Oproznienia buforow"
 #: TFRMULTIMAP.MIREMOVEHOTKEY.CAPTION
 msgctxt "TFRMULTIMAP.MIREMOVEHOTKEY.CAPTION"
 msgid "Remove hotkey"
-msgstr "Usun przycisk"
+msgstr "Usuń przycisk"
 
 #: TFRMULTIMAP.MISETHOTKEY.CAPTION
 msgctxt "TFRMULTIMAP.MISETHOTKEY.CAPTION"
@@ -8331,7 +8331,7 @@ msgstr "Dodaj przycisk"
 
 #: THOTKEYFORM.BTNEDITHOTKEY.CAPTION
 msgid "Edit Hotkey"
-msgstr "Zmien przycisk"
+msgstr "Zmień przycisk"
 
 #: THOTKEYFORM.BUTTON2.CAPTION
 msgctxt "THOTKEYFORM.BUTTON2.CAPTION"
@@ -8340,7 +8340,7 @@ msgstr "Wyczysc"
 
 #: THOTKEYFORM.CAPTION
 msgid "Set/Change hotkey"
-msgstr "Ustaw/Zmien skrot klawiszowy na ten adres"
+msgstr "Ustaw/Zmień skrot klawiszowy na ten adres"
 
 #: THOTKEYFORM.CBFREEZEDIRECTION.TEXT
 msgctxt "THOTKEYFORM.CBFREEZEDIRECTION.TEXT"
@@ -8381,7 +8381,7 @@ msgstr "Opis"
 #: THOTKEYFORM.MIDELETE.CAPTION
 msgctxt "THOTKEYFORM.MIDELETE.CAPTION"
 msgid "Delete"
-msgstr "Usun"
+msgstr "Usuń"
 
 #: THOTKEYFORM.TABSHEET1.CAPTION
 msgid "TabSheet1"
@@ -8413,7 +8413,7 @@ msgstr ""
 
 #: TMAINFORM.ACTOPEN.HINT
 msgid "Open a cheat table or unprotected cetrainer"
-msgstr "Otworz tabele cheatengine lub niezabezpieczony cetrainer"
+msgstr "Otwórz tabele cheatengine lub niezabezpieczony cetrainer"
 
 #: TMAINFORM.ACTOPENDISSECTSTRUCTURE.CAPTION
 msgid "actOpenDissectStructure"
@@ -8461,7 +8461,7 @@ msgstr "Disassambuj ten region pamieci"
 
 #: TMAINFORM.BTNMEMORYVIEW.CAPTION
 msgid "Memory View"
-msgstr "Przegladaj pamiec"
+msgstr "Przegladaj pamięć"
 
 #: TMAINFORM.BTNSETSPEEDHACK2.CAPTION
 msgctxt "TMAINFORM.BTNSETSPEEDHACK2.CAPTION"
@@ -8522,7 +8522,7 @@ msgstr "Szybki skan"
 
 #: tmainform.cbfastscan.hint
 msgid "Speeds up the scan and decreases useless reults by skipping unaligned memory, or only scans addresses ending with specific digits"
-msgstr "Przyspiesza skanowanie i zmienjsza niepotrzebna ilosc wynikow pomijajac niezestrojona pamiec, lub tylko skanuje adresy konczonce sie specyficznymi cyframi"
+msgstr "Przyspiesza skanowanie i zmienjsza niepotrzebna ilosc wynikow pomijajac niezestrojona pamięć, lub tylko skanuje adresy konczonce sie specyficznymi cyframi"
 
 #: TMAINFORM.CBHEXADECIMAL.CAPTION
 msgctxt "TMAINFORM.CBHEXADECIMAL.CAPTION"
@@ -8566,12 +8566,12 @@ msgstr "Zaznacz lub odznacz:"
 
 #: TMAINFORM.CHANGE1.CAPTION
 msgid "Change record"
-msgstr "Zmien zapis"
+msgstr "Zmień zapis"
 
 #: TMAINFORM.CHANGESCRIPT1.CAPTION
 msgctxt "TMAINFORM.CHANGESCRIPT1.CAPTION"
 msgid "Change script"
-msgstr "Zmien skrypt"
+msgstr "Zmień skrypt"
 
 #: TMAINFORM.COMMENTBUTTON.CAPTION
 msgid "Table Extras"
@@ -8612,7 +8612,7 @@ msgstr ""
 
 #: TMAINFORM.DELETETHISRECORD1.CAPTION
 msgid "Delete this record"
-msgstr "Usun ten rekord"
+msgstr "Usuń ten rekord"
 
 #: TMAINFORM.DESCRIPTION1.CAPTION
 msgctxt "TMAINFORM.DESCRIPTION1.CAPTION"
@@ -8821,7 +8821,7 @@ msgstr "Wyjdz"
 #: TMAINFORM.MENUITEM8.CAPTION
 msgctxt "TMAINFORM.MENUITEM8.CAPTION"
 msgid "Open Process"
-msgstr "Otworz proces"
+msgstr "Otwórz proces"
 
 #: TMAINFORM.MENUITEM9.CAPTION
 msgid "Generate generic trainer lua script from table"
@@ -8857,11 +8857,11 @@ msgstr ""
 
 #: TMAINFORM.MICHANGECOLOR.CAPTION
 msgid "Change Color"
-msgstr "Zmien kolor"
+msgstr "Zmień kolor"
 
 #: TMAINFORM.MICHANGEVALUE.CAPTION
 msgid "Change value of selected addresses"
-msgstr "Zmien wartosc zaznaczonego adresu"
+msgstr "Zmień wartosc zaznaczonego adresu"
 
 #: TMAINFORM.MICLOSETAB.CAPTION
 msgid "Close tab"
@@ -8881,7 +8881,7 @@ msgstr "Zdefiniuj wlasny typ (LUA)"
 
 #: TMAINFORM.MIDELETECUSTOMTYPE.CAPTION
 msgid "Delete selected custom type"
-msgstr "Usun zaznaczony typ"
+msgstr "Usuń zaznaczony typ"
 
 #: TMAINFORM.MIEDITCUSTOMTYPE.CAPTION
 msgid "Edit selected custom type"
@@ -8918,7 +8918,7 @@ msgstr ""
 
 #: TMAINFORM.MIOPENFILE.CAPTION
 msgid "Open File"
-msgstr "Otworz plik"
+msgstr "Otwórz plik"
 
 #: TMAINFORM.MIPRESETALL.CAPTION
 msgid "Preset: Scan all memory"
@@ -8935,7 +8935,7 @@ msgstr "Ustawienia wartosci tego wpisu ustawia taka sama wartosc children"
 #: TMAINFORM.MIRENAMETAB.CAPTION
 msgctxt "TMAINFORM.MIRENAMETAB.CAPTION"
 msgid "Rename"
-msgstr "Zmien nazwe"
+msgstr "Zmień nazwę"
 
 #: TMAINFORM.MIRESETRANGE.CAPTION
 msgid "Reset range"
@@ -9054,7 +9054,7 @@ msgstr "&Narzedzia"
 
 #: TMAINFORM.OPENPROCESS1.CAPTION
 msgid "Open Process window"
-msgstr "Otworz okno procesu"
+msgstr "Otwórz okno procesu"
 
 #: TMAINFORM.PASTE1.CAPTION
 msgctxt "TMAINFORM.PASTE1.CAPTION"
@@ -9118,7 +9118,7 @@ msgstr "Po ustawieniu tego i szybki skan to skanuj i przywroc adresy koncowe z p
 #: TMAINFORM.REMOVESELECTEDADDRESSES1.CAPTION
 msgctxt "TMAINFORM.REMOVESELECTEDADDRESSES1.CAPTION"
 msgid "Remove selected addresses"
-msgstr "Usun zaznaczony adres"
+msgstr "Usuń zaznaczony adres"
 
 #: TMAINFORM.RT1.CAPTION
 msgid "Rounded (default)"
@@ -9184,7 +9184,7 @@ msgstr "Dodatkowe okienko zmiany adresu/ow"
 
 #: TMAINFORM.SPEEDBUTTON2.HINT
 msgid "Delete all addresses from the list"
-msgstr "Usun wszystkie adresy z listy"
+msgstr "Usuń wszystkie adresy z listy"
 
 #: TMAINFORM.SPEEDBUTTON3.HINT
 msgid "Copy all selected items to the address list"
@@ -9218,7 +9218,7 @@ msgstr "Pelny uklad"
 
 #: TMEMORYBROWSER.ALLOCATENONPAGEDMEMORY1.CAPTION
 msgid "Allocate nonpaged memory"
-msgstr "Przeznacz niestronicowana pamiec"
+msgstr "Przeznacz niestronicowana pamięć"
 
 #: TMEMORYBROWSER.ASSEMBLE1.CAPTION
 msgid "Assemble"
@@ -9264,7 +9264,7 @@ msgstr "Edycja"
 
 #: TMEMORYBROWSER.CHANGESTATEOFREGISTERATTHISLOCATION1.CAPTION
 msgid "Change register at this location"
-msgstr "Zmien rejestr w tej lokacji"
+msgstr "Zmień rejestr w tej lokacji"
 
 #: TMEMORYBROWSER.CONTINUEANDDETACHDEBUGGER1.CAPTION
 msgid "Continue and  detach debugger"
@@ -9446,7 +9446,7 @@ msgstr "Wypeln Pamiec"
 
 #: TMEMORYBROWSER.FINDMEMORY1.CAPTION
 msgid "Find memory"
-msgstr "Przeszukaj pamiec"
+msgstr "Przeszukaj pamięć"
 
 #: TMEMORYBROWSER.FINDOUTWHATADDRESSESTHISINSTRUCTIONACCESSES1.CAPTION
 msgid "Find out what addresses this instruction accesses"
@@ -9638,7 +9638,7 @@ msgstr "Przerwij i sledz"
 
 #: TMEMORYBROWSER.MENUITEM9.CAPTION
 msgid "Change fade timer"
-msgstr "Zmien zegar gasniecia"
+msgstr "Zmień zegar gasniecia"
 
 #: TMEMORYBROWSER.MIADDEBP.CAPTION
 msgctxt "TMEMORYBROWSER.MIADDEBP.CAPTION"
@@ -9656,7 +9656,7 @@ msgstr "Dodaj do listy adresow"
 
 #: TMEMORYBROWSER.MICONDITIONALBREAK.CAPTION
 msgid "Set/Change break condition"
-msgstr "Wybierz/Zmien warunek przerwania"
+msgstr "Wybierz/Zmień warunek przerwania"
 
 #: TMEMORYBROWSER.MICOPYBYTESONLY.CAPTION
 msgctxt "TMEMORYBROWSER.MICOPYBYTESONLY.CAPTION"
@@ -9669,7 +9669,7 @@ msgstr "Zdarzenia Debugu"
 
 #: TMEMORYBROWSER.MIDELETEBP.CAPTION
 msgid "Delete Breakpoint"
-msgstr "Usun punkt zaczepowy"
+msgstr "Usuń punkt zaczepowy"
 
 #: TMEMORYBROWSER.MIDISASSEMBLERTYPE.CAPTION
 msgid "Disassembly output"
@@ -9777,7 +9777,7 @@ msgstr "Przelacz przerywniki"
 
 #: TMEMORYBROWSER.MIUSERDEFINEDCOMMENT.CAPTION
 msgid "Set/Change comment"
-msgstr "Wybierz/Zmien komentarz"
+msgstr "Wybierz/Zmień komentarz"
 
 #: TMEMORYBROWSER.MODULESONLY1.CAPTION
 msgid "Modules only"
@@ -9938,7 +9938,7 @@ msgstr "Skanuj w poszukiwaniu dziur"
 
 #: TMEMORYBROWSER.SEARCH1.CAPTION
 msgid "Search memory..."
-msgstr "Przeszukaj pamiec..."
+msgstr "Przeszukaj pamięć..."
 
 #: TMEMORYBROWSER.SEARCH2.CAPTION
 msgctxt "TMEMORYBROWSER.SEARCH2.CAPTION"
@@ -10032,7 +10032,7 @@ msgstr "Siec"
 
 #: TPROCESSWINDOW.BTNOPENFILE.CAPTION
 msgid "Open file"
-msgstr "Otworz plik"
+msgstr "Otwórz plik"
 
 #: TPROCESSWINDOW.BTNPROCESSLIST.CAPTION
 msgctxt "TPROCESSWINDOW.BTNPROCESSLIST.CAPTION"
@@ -10078,7 +10078,7 @@ msgstr "Wpisz PID recznie"
 #: TPROCESSWINDOW.OKBUTTON.CAPTION
 msgctxt "TPROCESSWINDOW.OKBUTTON.CAPTION"
 msgid "Open"
-msgstr "Otworz"
+msgstr "Otwórz"
 
 #: TPROCESSWINDOW.SHOWINVISIBLEWINDOWS1.CAPTION
 msgid "Show invisible windows"
@@ -10094,7 +10094,7 @@ msgstr ""
 
 #: trainergenerator.rsareyousure
 msgid "Are you sure?"
-msgstr "Jestes pewny?"
+msgstr "Jesteś pewny?"
 
 #: trainergenerator.rsautogenwarningpart1
 msgid "This is autogenerated code. Changing code in this block will"
@@ -10147,7 +10147,7 @@ msgstr "Zwieksz/Wzrost"
 
 #: trainergenerator.rsinvalidtrainerscript
 msgid "The current lua script only has a half TRAINERGENERATORSTART/TRAINERGENERATORSTOP block. Please fix this first (Removing is the easiest option)"
-msgstr "Bierzacy LUA skrypt jest tylko do TRAINERGENERATORSTART/TRAINERGENERATORSTOP bloku. Napraw najpierw pierwszy blad (Usuwanie jest najlatwiejsza opcja)"
+msgstr "Bierzacy LUA skrypt jest tylko do TRAINERGENERATORSTART/TRAINERGENERATORSTOP bloku. Napraw najpierw pierwszy Błąd (Usuwanie jest najlatwiejsza opcja)"
 
 #: trainergenerator.rsnocheatpanel
 msgid "The current trainer form does not have a panel named 'CHEATPANEL' so can not be reused by the automated trainer generator.%sDo you want to start from scratch? (If you want to create a trainer from your current script you can just save your table as .EXE instead of using the automated trainer generator)"
@@ -10351,7 +10351,7 @@ msgstr "Anuluj"
 
 #: TVALUECHANGEFORM.CAPTION
 msgid "Change Offset: ########"
-msgstr "Zmien Offset: ########"
+msgstr "Zmień Offset: ########"
 
 #: TVALUECHANGEFORM.CBUNICODE.CAPTION
 msgctxt "TVALUECHANGEFORM.CBUNICODE.CAPTION"
@@ -10380,7 +10380,7 @@ msgstr "Unrandomizer nie pracuje obecnie na 64-bitowych aplikacjach"
 
 #: valuechange.rschangeoffset
 msgid "Change offset %s"
-msgstr "Zmien offset %s"
+msgstr "Zmień offset %s"
 
 #: valuechange.rspartofthestringisunreadable
 msgid "Part of the string is unreadable!"
@@ -10462,15 +10462,15 @@ msgstr "Cheat Engine nie moze sie dostac do konfiguracji wybranego programu (Err
 
 #: vehdebugger.rserrorwhiletryingtocreatetheconfigurationstructure
 msgid "Error while trying to create the configuration structure! (Which effectively renders this whole feature useless) Errorcode=%s"
-msgstr "Blad podczas tworzenia konfiguracji struktury! (Co skutecznie czyni ta cala funkcje bezuzyteczna) Kod bledu=%s"
+msgstr "Błąd podczas tworzenia konfiguracji struktury! (Co skutecznie czyni ta cala funkcje bezuzyteczna) Kod bledu=%s"
 
 #: vehdebugger.rsfailureduplicatingtheeventhandlestotheotherprocess
 msgid "Failure duplicating the event handles to the other process"
-msgstr "Blad podczas duplikowania uchwytow do innych procesow"
+msgstr "Błąd podczas duplikowania uchwytow do innych procesow"
 
 #: vehdebugger.rsvehdebugerror
 msgid "VEH Debug error"
-msgstr "Blad VEH Debug"
+msgstr "Błąd VEH Debug"
 
 #: virtualmemory.rsnomemoryfoundinthespecifiedregion
 msgctxt "virtualmemory.rsnomemoryfoundinthespecifiedregion"
