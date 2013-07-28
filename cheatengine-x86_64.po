@@ -15,7 +15,7 @@ msgstr "Oznacza to, ze dbvm nie jest uruchomione, ale system jest w stanie uruch
 
 #: aboutunit.rsthismeansthatyoursystemisrunningdbvm
 msgid "This means that your system is running dbvm. This means ce will make use of some advanced tools that are otherwhise unavailable"
-msgstr "Oznacza to, z system dbvm dziala. CE wykorzysta sporo zaawansowanych narzedzi, kt�re s� niedostepne inaczej"
+msgstr "Oznacza to, że system DBVM działa. CE wykorzysta sporo zaawansowanych narzędzi, które są niedostepne nigdzie indziej"
 
 #: aboutunit.rsthismeansthatyouwillneedanewcpuinteltobeabletouset
 msgid "This means that you will need a new cpu (intel) to be able to use the advanced dbvm options"
@@ -48,7 +48,7 @@ msgstr "Brak praw na modyfikacje pliku"
 #: addaddress.rsaddressofpointer
 msgctxt "addaddress.rsaddressofpointer"
 msgid "Address of pointer"
-msgstr "Adres wskazniku"
+msgstr "Adres wskaźnika"
 
 #: addaddress.rsfillinthenrofbytesafterthelocationthepointerpoints
 msgctxt "addaddress.rsfillinthenrofbytesafterthelocationthepointerpoints"
