@@ -39,7 +39,7 @@ msgstr "Nie masz praw na tworzenie lub podmienianie plików"
 
 #: accesscheck.rsnofiledeletionrights
 msgid "No file deletion rights"
-msgstr "Brak praw na usuniecie pliku"
+msgstr "Brak praw na usunięcie pliku"
 
 #: accesscheck.rsnofilemodificationrights
 msgid "No file modification rights"
@@ -112,7 +112,7 @@ msgstr "Nie zostaly wypelnione wszystkie offsety"
 #: addresslist.rsactive
 msgctxt "addresslist.rsactive"
 msgid "Active"
-msgstr "Aktywuj/Zamroź"
+msgstr "Aktywuj/Zamróź"
 
 #: addresslist.rsaddress
 msgctxt "addresslist.rsaddress"
@@ -992,7 +992,7 @@ msgstr ""
 
 #: formaddresschangeunit.rsisnotavalidoffset
 msgid "%s is not a valid offset"
-msgstr "%s jest nieprawidlowym offsetem"
+msgstr "%s jest nieprawidłowym offsetem"
 
 #: formaddresschangeunit.rsnotalloffsetshavebeenfilledin
 msgid "Not all offsets have been filled in"
@@ -1438,7 +1438,7 @@ msgstr "Zwiekszenie wartości"
 
 #: formsettingsunit.rsisnotavalidinterval
 msgid "%s is not a valid interval"
-msgstr "%s jest nieprawidlowym odstepem"
+msgstr "%s jest nieprawidłowym odstepem"
 
 #: formsettingsunit.rslower
 msgctxt "formsettingsunit.rslower"
@@ -2044,7 +2044,7 @@ msgstr "Włącz skrypt"
 
 #: hotkeys.rsfreeze
 msgid "Freeze"
-msgstr "Zamroź"
+msgstr "Zamróź"
 
 #: hotkeys.rshotkeyid
 msgid "Hotkey ID=%s"
@@ -2107,8 +2107,8 @@ msgstr "Nieprawidłowa liczba zmienno-przecinkowa:%s"
 msgid "Invalid integer:%s"
 msgstr "Nieprawidlowa liczba calkowita:%s"
 
-#: luahandler.rslua_doscriptwasnotcalledromthemainthread
-msgid "LUA_DoScript was not called from the main thread"
+#: luahandler.rslua_dośćriptwasnotcalledromthemainthread
+msgid "LUA_dośćript was not called from the main thread"
 msgstr ""
 
 #: luahandler.rspluginaddress
@@ -2381,7 +2381,7 @@ msgstr ""
 
 #: mainunit.rstherecordwithdescriptionhasasinterpretableaddresst
 msgid "The record with description '%s' has as interpretable address '%s'. The recalculation will change it to %s. Do you want to edit it to the new address?"
-msgstr "Wynik z opisem '%s' jest nieprawidlowym adresem do '%s'. Kalkulacje pokazuja aby zmienić to %s. Czy chcesz edytowac to w nowym adresie?"
+msgstr "Wynik z opisem '%s' jest nieprawidłowym adresem do '%s'. Kalkulacje pokazuja aby zmienić to %s. Czy chcesz edytowac to w nowym adresie?"
 
 #: mainunit.rsthisbuttonwillforcecancelascanexpectmemoryleaks
 msgid "This button will force cancel a scan. Expect memory leaks"
@@ -2518,11 +2518,11 @@ msgstr ""
 
 #: mainunit.strfreezeaddressinlist
 msgid "Freeze the address in this list"
-msgstr "Zamroź adres na tej liście"
+msgstr "Zamróź adres na tej liście"
 
 #: mainunit.strfreezealladdresses
 msgid "Freeze all addresses in this list"
-msgstr "Zamroź wszystkie adresy na tej liście"
+msgstr "Zamróź wszystkie adresy na tej liście"
 
 #: mainunit.strfuture
 msgid "Wow,I never imagined people would use Cheat Engine up to today"
@@ -2530,7 +2530,7 @@ msgstr ""
 
 #: mainunit.strhappybirthday
 msgid "Let's sing Happy Birthday for Dark Byte today!"
-msgstr "Teraz zaspiewaj STO LAT dla Dark Byte!"
+msgstr "Teraz zaźpiewaj STO LAT dla Dark Byte!"
 
 #: mainunit.strhideall
 msgid "will hide all windows"
@@ -2546,7 +2546,7 @@ msgstr "O tej tabeli:"
 
 #: mainunit.strkeeplist
 msgid "Keep the current address list/code list?"
-msgstr "Zostawić te adresy na tel liście?"
+msgstr "Zostawić te adresy na tej liście?"
 
 #: mainunit.strmorepointers
 msgid "There are more pointers selected. Do you want to change them as well?"
@@ -2558,11 +2558,11 @@ msgstr "Zaznaczyłeś jeden lub więcej wskaźników. Czy chcesz zmienić je?"
 
 #: mainunit.strnewyear
 msgid "And what are your good intentions for this year? ;-)"
-msgstr "Jakie sa Twoje dobre intencje w tym roku? ;-)""
+msgstr "Jakie są Twoje dobre intencje w tym roku? ;-)""
 
 #: mainunit.strnotavalidbinarynotation
 msgid " is not a valid binary notation!"
-msgstr "jest nieprawidlowym binarnym powiadomieniem!"
+msgstr "jest nieprawidłowym binarnym powiadomieniem!"
 
 #: mainunit.strnotavalidnotation
 msgid "This is not a valid notation"
@@ -2588,11 +2588,11 @@ msgstr "Nie o tej samej wielkości!"
 #: mainunit.stropcodechanged
 msgctxt "mainunit.stropcodechanged"
 msgid "The following opcodes changed the selected address"
-msgstr "Nastepujace opcody zmienione z wybvranego adresu"
+msgstr "Następujące opcody zmienione z wybranego adresu"
 
 #: mainunit.stropcoderead
 msgid "The following opcodes read from the selected address"
-msgstr "Nastepujace opcody odczytane z wybvranego adresu"
+msgstr "Następujące opcody odczytane z wybranego adresu"
 
 #: mainunit.strphysicalmemory
 msgctxt "mainunit.strphysicalmemory"
@@ -2705,7 +2705,7 @@ msgstr "Wybierz pozycje z listy do malego opisu"
 
 #: mainunit2.rsusethegameapplicationforawhile
 msgid "Use the game/application for a while and make the address you're watching change. The list will be filled with addresses that contain code that change the watched address."
-msgstr "Użyj gry/aplikacji i ogladaj zmiany podczas zmiany adresu. Lista zostanie wypelniona adresami, ktore zawieraja kod, który zmieni ogladany adres."
+msgstr "Użyj gry/aplikacji i ogladaj zmiany podczas zmiany adresu. Lista zostanie wypelniona adresami, które zawieraja kod, który zmieni ogladany adres."
 
 #: mainunit2.straddresshastobereadable
 msgid "The address has to be readable if you want to use this function"
@@ -2888,7 +2888,7 @@ msgstr "Błąd alokacji pamięci!"
 
 #: memorybrowserformunit.rsfillintheaddressyouwanttogoto
 msgid "Fill in the address you want to go to"
-msgstr "Wprowadz adres, do ktorego chcesz dojsc"
+msgstr "Wprowadz adres, do którego chcesz dojsc"
 
 #: memorybrowserformunit.rsgetkerneladdress
 msgid "Get kernel address"
@@ -3042,7 +3042,7 @@ msgstr "Wartość"
 
 #: memorybrowserformunit.rswhatisthenewvalueof
 msgid "What is the new value of %s?"
-msgstr "Jaka nowa wartość chcesz dodac %s?"
+msgstr "Jaka nowa wartość chcesz dodać %s?"
 
 #: memorybrowserformunit.rswhatwillbethestartaddressofthisthread
 msgid "What will be the startaddress of this thread?"
@@ -3148,7 +3148,7 @@ msgstr "%s nie mozna otworzyć/nie może zostac otwarty"
 
 #: newkernelhandler.rsdidnotloaddbvm
 msgid "I don't know what you did, you didn't crash, but you also didn't load DBVM"
-msgstr "Nie wiem co wywolalo crash, ale chyba nie mozesz wczytac DBVM"
+msgstr "Nie wiem co wywolalo crash, ale chyba nie możesz wczytac DBVM"
 
 #: newkernelhandler.rsfucked
 msgid "Something is really messed up on your computer! You don't seems to have a kernel!!!!"
@@ -3156,7 +3156,7 @@ msgstr "Coś poszło nie tak! Chyba nie masz kernela!!!!"
 
 #: newkernelhandler.rspleaserebootandpressf8beforewindowsboots
 msgid "Please reboot and press f8 before windows boots. Then enable unsigned drivers. Alternatively, you could buy yourself a business class certificicate and sign the driver yourself (or try debug signing)"
-msgstr "Proszę ponownie uruchomic komputer i Naciśnij klawisz F8 przed ladowaniem. Wtedy wlacz nieznane sterowniki. Alternatywnie mozesz kupic sobie klasy biznesowej i nadpisac sterowniki (lub sprobuj debugowac logowanie)"
+msgstr "Proszę ponownie uruchomic komputer i Naciśnij klawisz F8 przed ladowaniem. Wtedy wlacz nieznane sterowniki. Alternatywnie możesz kupic sobie klasy biznesowej i nadpisac sterowniki (lub sprobuj debugowac logowanie)"
 
 #: newkernelhandler.rsthedriverneedstobeloadedtobeabletousethisfunction
 msgid "The driver needs to be loaded to be able to use this function."
@@ -3721,7 +3721,7 @@ msgstr "Aktualizuj interval"
 #: structuresfrm.rswhichgroupdoyouwanttosetthisaddressto
 msgctxt "structuresfrm.rswhichgroupdoyouwanttosetthisaddressto"
 msgid "Which group do you want to set this address to?"
-msgstr "W ktorej grupie chcesz ustawic adres?"
+msgstr "W której grupie chcesz ustawic adres?"
 
 #: structuresfrm.rswrongversion
 msgctxt "structuresfrm.rswrongversion"
@@ -3751,11 +3751,11 @@ msgstr "Wygenerowane automatycznie dla %s"
 #: structuresfrm2.rschangegroup
 msgctxt "structuresfrm2.rschangegroup"
 msgid "Change group"
-msgstr "Zmień grupe"
+msgstr "Zmień grupę"
 
 #: structuresfrm2.rschangegroup2
 msgid "Change Group"
-msgstr "Zmień grupe"
+msgstr "Zmień grupę"
 
 #: structuresfrm2.rscopy
 msgctxt "structuresfrm2.rscopy"
@@ -3784,7 +3784,7 @@ msgstr "Chcesz aby Cheat Engine spróbował wypełnić najbardziej podstawowe ty
 #: structuresfrm2.rsfirstselectastructureyouwanttomodifyordefine
 msgctxt "structuresfrm2.rsfirstselectastructureyouwanttomodifyordefine"
 msgid "First select a structure you want to modify or define one first"
-msgstr "Najpierw wybierz struktury, ktore chcesz modyfikowac lub zdefiniowac jako pierwsza"
+msgstr "Najpierw wybierz struktury, które chcesz modyfikowac lub zdefiniować jako pierwsze"
 
 #: structuresfrm2.rsgivetheaddressofthiselement
 msgctxt "structuresfrm2.rsgivetheaddressofthiselement"
@@ -3828,7 +3828,7 @@ msgstr "Wnikliwa pamięć"
 #: structuresfrm2.rsnewinterval
 msgctxt "structuresfrm2.rsnewinterval"
 msgid "New interval"
-msgstr "Nowy przedzial"
+msgstr "Nowy przedział"
 
 #: structuresfrm2.rspaste
 msgctxt "structuresfrm2.rspaste"
@@ -3883,7 +3883,7 @@ msgstr "Struktury wnikliwe"
 #: structuresfrm2.rsstructureviewlock
 msgctxt "structuresfrm2.rsstructureviewlock"
 msgid "Structure view lock"
-msgstr ""
+msgstr "Widok struktury zablokowany"
 
 #: structuresfrm2.rsthisisnotavalidstructurefile
 msgctxt "structuresfrm2.rsthisisnotavalidstructurefile"
@@ -3893,7 +3893,11 @@ msgstr "Plik ze strukturą jest nieprawidłowy"
 #: structuresfrm2.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav
 msgctxt "structuresfrm2.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav"
 msgid "This is quite a big structure. How many bytes do you want to save?"
+<<<<<<< .mine
+msgstr "Jest to dość duza struktura. Ile chcesz przeznaczyc bajtów na zapis?"
+=======
 msgstr "Jest to dość duża struktura. Ile bajtów chcesz zapisać?"
+>>>>>>> .r11
 
 #: structuresfrm2.rsundefined
 msgctxt "structuresfrm2.rsundefined"
@@ -3918,12 +3922,12 @@ msgstr "Nienazwana struktura"
 #: structuresfrm2.rsupdateinterval
 msgctxt "structuresfrm2.rsupdateinterval"
 msgid "Update interval"
-msgstr "Aktualizuj przedzial"
+msgstr "Aktualizuj przedział"
 
 #: structuresfrm2.rswhichgroupdoyouwanttosetthisaddressto
 msgctxt "structuresfrm2.rswhichgroupdoyouwanttosetthisaddressto"
 msgid "Which group do you want to set this address to?"
-msgstr ""
+msgstr "Dla której grupy chcesz ustawić ten adres?"
 
 #: structuresfrm2.rswrongversion
 msgctxt "structuresfrm2.rswrongversion"
@@ -3932,7 +3936,7 @@ msgstr ""
 
 #: symbolconfigunit.rsareyousureyouwanttoremovethissymbolfromthelist
 msgid "Are you sure you want to remove this symbol from the list?"
-msgstr "Jesteś pewny, że chcesz usunąć ten Symbol z listy?"
+msgstr "Jesteś pewny, że chcesz usunąć ten symbol z listy?"
 
 #: symbolhandler.rsalreadyexists
 msgid "already exists"
@@ -3948,7 +3952,7 @@ msgstr ""
 
 #: symbolhandler.rspleaseprovideabiggersize
 msgid "Please provide a bigger size"
-msgstr "Proszę podac wiekszy rozmiar"
+msgstr "Proszę podac większy rozmiar"
 
 #: symbolhandler.rssymbolloaderthreadhascrashed
 msgid "Symbolloaderthread has crashed"
@@ -3960,11 +3964,11 @@ msgstr ""
 
 #: symbolhandler.rsyoucantaddasymbolwithaddress0
 msgid "You can't add a symbol with address 0"
-msgstr "Nie mozesz dodac symbolu z adresem 0"
+msgstr "Nie możesz dodać symbolu z adresem 0"
 
 #: symbolhandler.rsyoucantchangethissettingatthemoment
 msgid "You can't change this setting at the moment"
-msgstr "Nie mozesz zmieniac opcji w tym momencie"
+msgstr "Nie możesz zmieniać opcji w tym momencie"
 
 #: tableconverter.rstoooldtable
 msgid "This table is too old to be used. Get Cheat engine 5.6 and open/resave this table"
@@ -4877,7 +4881,7 @@ msgstr "Nie skanuj pamięci, która jest chroniona opcją No Cache"
 
 #: TFORMSETTINGS.CBSKIP_PAGE_NOCACHE.HINT
 msgid "Some systems crash when trying to read memory with this protection. If that happens check this option."
-msgstr "Niektore systemy się crashuja podczas czytania zabezpieczonej pamięci. Jesli tak się stanie, sprawdz te opcje."
+msgstr "Niektóre systemy się crashuja podczas czytania zabezpieczonej pamięci. Jesli tak się stanie, sprawdz te opcje."
 
 #: TFORMSETTINGS.CBUPDATEFOUNDLIST.CAPTION
 msgid "Update the list of found addresses even after scanning"
@@ -5029,7 +5033,7 @@ msgstr "Zeskanuj nastepnujace typy regionow pamięci:"
 
 #: TFORMSETTINGS.LABEL22.CAPTION
 msgid "The following plugins are available:"
-msgstr "Nastepujace wtyczki sa dostepne:"
+msgstr "Następujące wtyczki sa dostepne:"
 
 #: TFORMSETTINGS.LABEL23.CAPTION
 msgid "Automatically attach to processes named"
@@ -5129,7 +5133,7 @@ msgstr "Wymień niekompletne opcodes z nops"
 
 #: TFORMSETTINGS.REPLACEWITHNOPS.HINT
 msgid "If you type in a opcode and it is smaller than the opcode you replaced, it will fill the missing bytes with NOP instructions. If the opcode is longer it will replace the opcode(s) that have been overwritten with NOP's"
-msgstr "Jesli bedziesz pisal w opcode i będzie mniejsze niż opcode ktore podmieniasz, to samo wypelni brakujace bajty z instrukcji NOP. Jesli opcode będzie wieksze, to zastapi on opcody ktore zostaly nadpisane z NOP"
+msgstr "Jesli bedziesz pisal w opcode i będzie mniejsze niż opcode które podmieniasz, to samo wypelni brakujace bajty z instrukcji NOP. Jesli opcode będzie wieksze, to zastapi on opcody które zostaly nadpisane z NOP"
 
 #: TFORMSETTINGS.SCANSETTINGS.CAPTION
 msgctxt "TFORMSETTINGS.SCANSETTINGS.CAPTION"
@@ -5479,7 +5483,7 @@ msgstr "Ilość"
 
 #: tfrmchangedaddresses.lblinfo.caption
 msgid "The following addresses have been changed by the code you selected"
-msgstr "Nastepujace adresy beda zmienić kod który zostanie zaznaczony"
+msgstr "Następujące adresy beda zmienić kod który zostanie zaznaczony"
 
 #: tfrmchangedaddresses.menuitem1.caption
 msgid "Copy address to clipboard"
@@ -7144,7 +7148,7 @@ msgstr "Zapisz tę strukturę w CT"
 #: TFRMSTRUCTURES.MIUPDATEINTERVAL.CAPTION
 msgctxt "TFRMSTRUCTURES.MIUPDATEINTERVAL.CAPTION"
 msgid "Update interval: 500"
-msgstr "Aktualizacja przedzialu: 500"
+msgstr "Aktualizacja przedziału: 500"
 
 #: TFRMSTRUCTURES.MIUPDATEOFFSETS.CAPTION
 msgctxt "TFRMSTRUCTURES.MIUPDATEOFFSETS.CAPTION"
@@ -7722,7 +7726,7 @@ msgstr "Wyczyść rejestracje debugu"
 
 #: TFRMTHREADLIST.MIFREEZETHREAD.CAPTION
 msgid "Freeze thread"
-msgstr "Zamroź wątek"
+msgstr "Zamróź wątek"
 
 #: TFRMTHREADLIST.MIRESUMETHREAD.CAPTION
 msgid "Resume thread"
@@ -8017,11 +8021,11 @@ msgstr "Powiadom o dzialaniu"
 
 #: TFRMTRAINERGENERATOR.CBCANRESIZE.CAPTION
 msgid "User can resize window"
-msgstr "Mozna zmieniac rozmiar okna"
+msgstr "Mozna zmieniać rozmiar okna"
 
 #: tfrmtrainergenerator.cbcanresize.caption
 msgid "User can resize window"
-msgstr "Uzytkownik może zmieniac rozmiar okna"
+msgstr "Uzytkownik może zmieniać rozmiar okna"
 
 #: tfrmtrainergenerator.cbconfigd3dhook.caption
 msgctxt "TFRMTRAINERGENERATOR.CBCONFIGD3DHOOK.CAPTION"
@@ -8211,7 +8215,7 @@ msgstr "Oznacz wszystkie nowe wpisy w odfiltrowane"
 
 #: TFRMULTIMAP.CBFILTEROUTNEWENTRIES.HINT
 msgid "When this checkbox is ticked all newly added code entry points will be marked as entries that do not match the filters"
-msgstr "Gdy to pole jest zaznaczone wszystkie nowo dodane punkty wejscia beda zaznaczone jako wpisy, ktore nie pasuja do filtrow"
+msgstr "Gdy to pole jest zaznaczone wszystkie nowo dodane punkty wejscia beda zaznaczone jako wpisy, które nie pasuja do filtrow"
 
 #: TFRMULTIMAP.CBLOGTOFILE.CAPTION
 msgid "Log directly to file"
@@ -9195,7 +9199,7 @@ msgctxt "TMAINFORM.TYPE1.CAPTION"
 msgid "Type"
 msgstr "Typ"
 
-#: TMAINFORM.UNDOSCAN.CAPTION
+#: TMAINFORM.UNdośćAN.CAPTION
 msgid "Undo Scan"
 msgstr "Cofnij skan"
 
@@ -10167,7 +10171,7 @@ msgstr "Dziekuje! :)"
 
 #: trainergenerator.rstipyoudonthavetousethetrainergeneratorifyoudontwantto
 msgid "Tip: You don't have to use the trainer generator if you don't want to. You can just save your table as .EXE or CETRAINER"
-msgstr "Wskazowka: Nie mozesz uzywac trainer generatora, jezeli nie zrobiles tego. Musisz najpierw zapisac swoj plik jako .EXE lub .CETRAINER"
+msgstr "Wskazowka: Nie możesz uzywac trainer generatora, jezeli nie zrobiles tego. Musisz najpierw zapisac swoj plik jako .EXE lub .CETRAINER"
 
 #: trainergenerator.rsto
 msgid "to"
@@ -10179,7 +10183,7 @@ msgstr "Odmroz"
 
 #: trainergenerator.rsyouneedacheattablewithcheatentries
 msgid "You need a cheat table with cheat entries"
-msgstr "Potrzebujesz adresy w liście aby dodac do trainera funkcje"
+msgstr "Potrzebujesz adresy w liście aby dodać do trainera funkcje"
 
 #: TREGISTERS.CAPTION
 msgid "Registers"
