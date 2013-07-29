@@ -1602,7 +1602,7 @@ msgstr "Szablon przeniesienia kodu"
 
 #: frmautoinjectunit.rsendaddresslastbytesareincludedifnecesary
 msgid "End address (last bytes are included if necesary)"
-msgstr "Zakoncz adres (ostatnie bity zostana w razie potrzeby)"
+msgstr "Zakończ adres (ostatnie bity zostana w razie potrzeby)"
 
 #: frmautoinjectunit.rsexecutescript
 msgid "Execute script"
@@ -3046,7 +3046,7 @@ msgstr "Jaka nowa wartość chcesz dodać %s?"
 
 #: memorybrowserformunit.rswhatwillbethestartaddressofthisthread
 msgid "What will be the startaddress of this thread?"
-msgstr "Co ma zostac adrestem poczatkowym tego watku?"
+msgstr "Co ma zostac adrestem początkowym tego watku?"
 
 #: memorybrowserformunit.rsyouwanttogiveanadditional32bitparameterwillshowupi
 msgid "You want to give an additional 32-bit parameter? (Will show up in (R)/(E)BX)"
@@ -3343,7 +3343,7 @@ msgstr ""
 
 #: pointerscannerfrm.rspointerpathsfound
 msgid "Pointer paths found"
-msgstr "Znaleziono sciezke wskaźnika"
+msgstr "Znaleziono ścieżkę wskaźnika"
 
 #: pointerscannerfrm.rspointerscan
 msgctxt "pointerscannerfrm.rspointerscan"
@@ -3477,11 +3477,11 @@ msgstr "%s to nieprawydlowe ID procesu"
 
 #: processwindowunit.rsmanualpid
 msgid "Manual PID"
-msgstr "Reczny PID"
+msgstr "Ręczny PID"
 
 #: processwindowunit.rsoptionallaunchparameters
 msgid "Optional launch parameters"
-msgstr "Opcjonalne uruchamianie parametrow"
+msgstr "Opcjonalne uruchamianie parametrów"
 
 #: processwindowunit.rsphysicalmemory
 msgctxt "processwindowunit.rsphysicalmemory"
@@ -3499,7 +3499,7 @@ msgstr "Lista procesow(wieksza)"
 
 #: processwindowunit.rsscanningclicktostop
 msgid "Scanning (Click to stop)"
-msgstr "Skanowanie (Kliknij "
+msgstr "Skanowanie (Kliknij aby zatrzymać)"
 
 #: processwindowunit.rswhatareyoulookingfor
 msgid "What are you looking for?"
@@ -3516,7 +3516,7 @@ msgstr "Kopiuj"
 
 #: savedisassemblyfrm.rscopydisassembledoutput
 msgid "Copy disassembled output"
-msgstr "Kopiuj sciezke dissablera"
+msgstr "Kopiuj ścieżkę dissablera"
 
 #: savedisassemblyfrm.rssave
 msgctxt "savedisassemblyfrm.rssave"
@@ -3526,19 +3526,19 @@ msgstr "Zapisz"
 #: savedisassemblyfrm.rssavedisassembledoutput
 msgctxt "savedisassemblyfrm.rssavedisassembledoutput"
 msgid "Save disassembled output"
-msgstr "Zapisz sciezke dissablera"
+msgstr "Zapisz ścieżkę dissablera"
 
 #: savedisassemblyfrm.rsstopcopying
 msgid "Stop copying"
-msgstr "Zakoncz kopiowanie"
+msgstr "Zakończ kopiowanie"
 
 #: savedisassemblyfrm.rsstopsaving
 msgid "Stop saving"
-msgstr "Zakoncz zapisywanie"
+msgstr "Zakończ zapisywanie"
 
 #: savedscanhandler.rsfailureinfindinginthefirstscanresults
 msgid "Failure in finding %s in the first scan results"
-msgstr "Błąd w poczatkowym znajdowaniu %s w Zacznij skanowanie"
+msgstr "Błąd w początkowym znajdowaniu %s w Zacznij skanowanie"
 
 #: savedscanhandler.rsfailureinfindinginthepreviousscanresults
 msgid "Failure in finding %s in the previous scan results"
@@ -3546,7 +3546,7 @@ msgstr "Błąd w poprzednim znajdowaniu %s w Zacznij skanowanie"
 
 #: savedscanhandler.rsinvalidorderofcallinggetpointertoaddress
 msgid "Invalid order of calling getpointertoaddress"
-msgstr "Zla kolejnosc wywowalania getpointertoadess "
+msgstr "Zła kolejnosc wywowalania getpointertoadess "
 
 #: savedscanhandler.rsmaxaddresslistcountis0meanstheaddresslistisbad
 msgid "maxaddresslistcount is 0 (Means: the addresslist is bad)"
@@ -3566,7 +3566,7 @@ msgstr "Błąd podczas wlaczania speedhacka. (DLL injection zakonczona niepowodz
 
 #: speedhack2.rsfailuresettingspeed
 msgid "Failure setting speed"
-msgstr "Zla konfiguracja szybkosci"
+msgstr "Zła konfiguracja szybkości"
 
 #: structuresfrm.rsareyousureyouwanttodelete
 msgctxt "structuresfrm.rsareyousureyouwanttodelete"
@@ -3586,7 +3586,7 @@ msgstr "Automatycznie wygenerowane dla %s"
 #: structuresfrm.rschangegroup
 msgctxt "structuresfrm.rschangegroup"
 msgid "Change group"
-msgstr "Zmień grupe"
+msgstr "Zmień grupę"
 
 #: structuresfrm.rsdissectdata
 msgctxt "structuresfrm.rsdissectdata"
@@ -7236,7 +7236,7 @@ msgstr "Zaznacz &Wszystko"
 
 #: TFRMSTRUCTURES.SETGROUP1.CAPTION
 msgid "Set group"
-msgstr "Wybierz grupe"
+msgstr "Wybierz grupę"
 
 #: TFRMSTRUCTURES.STRUCTURES1.CAPTION
 msgctxt "TFRMSTRUCTURES.STRUCTURES1.CAPTION"
@@ -7300,7 +7300,7 @@ msgstr ""
 
 #: TFRMSTRUCTURES2.MENUITEM5.CAPTION
 msgid "Add new group"
-msgstr "Dodaj nowa grupe"
+msgstr "Dodaj nowa grupę"
 
 #: TFRMSTRUCTURES2.MENUITEM6.CAPTION
 msgid "Find value"
