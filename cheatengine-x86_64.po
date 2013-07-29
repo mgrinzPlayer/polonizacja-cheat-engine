@@ -7,11 +7,11 @@ msgstr "Jesteś pewny, że chcesz właczyć DBVM? Używasz 32 bitowego windowsa,
 
 #: aboutunit.rsdidyoureallythinkyoudfindaneastereggbydoingthiswel
 msgid "Did you really think you'd find an easter egg by doing this? Well, you know what? You where right!"
-msgstr "Czy naprawde myślisz że znajdziesz jajko wielkanocne tutaj? Hmm, wiesz co? Masz racje!"
+msgstr "Czy naprawde myślisz, że znajdziesz jajko wielkanocne tutaj? Hmm, wiesz co? Masz rację!"
 
 #: aboutunit.rsthismeansthatyourecurrentlynotrunningdbvm
 msgid "This means that you're currently not running dbvm, but that your system is capable of running it"
-msgstr "Oznacza to, że dbvm nie jest uruchomione, ale system jest w stanie uruchomi go"
+msgstr "DBVM nie jest uruchomione, ale twój system jest kompatybilny z DBVM."
 
 #: aboutunit.rsthismeansthatyoursystemisrunningdbvm
 msgid "This means that your system is running dbvm. This means ce will make use of some advanced tools that are otherwhise unavailable"
@@ -135,7 +135,7 @@ msgstr "Opis"
 
 #: addresslist.rsdoyouwanttodeletetheselectedaddress
 msgid "Do you want to delete the selected address%s?"
-msgstr "Jesteś pewny że chcesz usunąć wybrany adres%?"
+msgstr "Jesteś pewny, że chcesz usunąć adres(y)?"
 
 #: addresslist.rsnotallvaluetypescouldhandlethevalue
 msgid "Not all value types could handle the value %s"
@@ -491,7 +491,7 @@ msgstr "Nie mogłem dołączyć debuggera do tego procesu! Mozna sprobowac otwor
 
 #: cedebugger.rsdonotclosece
 msgid "If you close Cheat Engine while the game is running, the game will close too. Are you sure you want to do this?"
-msgstr "Jesli zamkniesz Cheat Engine gdy gra będzie uruchomiona, gra tez się wyłączy. Jesteś pewny że chcesz to zrobić?"
+msgstr "Jesli zamkniesz Cheat Engine gdy gra będzie uruchomiona, gra też się wyłączy. Jesteś pewny, że chcesz to zrobić?"
 
 #: cedebugger.rspleasetargetanotherprocess
 msgid "Please target another process"
@@ -931,7 +931,7 @@ msgstr "Proszę najpierw otworzyć proces"
 
 #: disassemblerviewunit.rssymbolsarebeingloaded
 msgid "Symbols are being loaded"
-msgstr "Symbole sa ladowane"
+msgstr "Symbole są ładowane"
 
 #: dissectcodeunit.rsdone
 msgctxt "dissectcodeunit.rsdone"
@@ -1470,7 +1470,7 @@ msgstr "Spauzuj zaznaczony proces"
 
 #: formsettingsunit.rspleasebootwithunsigneddriversallowedf8duringbootor
 msgid "Please boot with unsigned drivers allowed(F8 during boot), or sign the driver yourself"
-msgstr "Proszę uruchomic nieoznakowane sterowniki (F8 podczas ladowania bootu), lub zrob to recznie"
+msgstr "Proszę uruchomić niepodpisane sterowniki (F8 podczas ładowania systemu), lub podpisz sterownik samodzielnie"
 
 #: formsettingsunit.rsplugins
 msgctxt "formsettingsunit.rsplugins"
@@ -1578,7 +1578,7 @@ msgstr "Pokazano procenty"
 
 #: frmautoinjectunit.rsareyousureyouwanttoclose
 msgid "Are you sure you want to close %s ?"
-msgstr "Jesteś pewny że chcesz to zamknac %s ?"
+msgstr "Jesteś pewny, że chcesz zamknac %s ?"
 
 #: frmautoinjectunit.rsautoassembler
 msgid "Auto assembler"
@@ -1622,7 +1622,7 @@ msgstr "LUA Skrypt"
 
 #: frmautoinjectunit.rsnotallcodeisinjectable
 msgid "Not all code is injectable. Are you sure you wan't to edit it to this?"
-msgstr "Nie wszystko jest do zainjectowania. Jesteś pewny że chcesz to edytowac?"
+msgstr "Kod nie jest wstrzykiwalny w całości. Potwierdzasz zmiany?"
 
 #: frmautoinjectunit.rsonwhataddressdoyouwantthejump
 msgid "On what address do you want the jump?"
@@ -1803,7 +1803,7 @@ msgstr "Kolor rejestru"
 
 #: frmmemviewpreferencesunit.rssymbolcolor
 msgid "Symbol color"
-msgstr "Kolor znaku"
+msgstr "Kolor Symbol'u"
 
 #: frmmodifyregistersunit.rsmodifyregisterssat
 msgid "Modify registers(s) at %s"
@@ -2101,7 +2101,7 @@ msgstr "Cheatengine jest pedalem"
 
 #: luahandler.rsinvalidfloat
 msgid "Invalid floating point string:%s"
-msgstr "Nieprawidłowy rozszerzony lancuch znakow:%s"
+msgstr "Nieprawidłowa liczba zmienno-przecinkowa:%s"
 
 #: luahandler.rsinvalidint
 msgid "Invalid integer:%s"
@@ -2147,15 +2147,15 @@ msgstr "Prima Aprilis!!!"
 #: mainunit.rsareyousureyouwanttodelete
 msgctxt "mainunit.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr "Jesteś pewny że chcesz usunąć %s?"
+msgstr "Jesteś pewny, że chcesz usunąć %s?"
 
 #: mainunit.rsareyousureyouwanttodeletethisform
 msgid "Are you sure you want to delete this form?"
-msgstr "Jesteś pewny że chcesz usunąć ta forme/uklad?"
+msgstr "Jesteś pewny, że chcesz usunąć tą formę?"
 
 #: mainunit.rsareyousureyouwanttoerasethedatainthecurrenttable
 msgid "Are you sure you want to erase the data in the current table?"
-msgstr "Jesteś pewny że chcesz usunąć cala tabele?"
+msgstr "Jesteś pewny, że chcesz usunąć całą tabelę?"
 
 #: mainunit.rsatleastxx
 msgid "at least xx%"
@@ -2205,7 +2205,7 @@ msgstr "Czy chcesz zabezpieczyć ten trainer przed edycją?"
 
 #: mainunit.rsdoyouwishtomergethecurrenttablewiththistable
 msgid "Do you wish to merge the current table with this table?"
-msgstr "Czy chcesz połączyć aktualna tabele z ta tabela?"
+msgstr "Czy chcesz połączyć aktualną tabelę z tą tabelą?"
 
 #: mainunit.rsedit
 msgctxt "mainunit.rsedit"
@@ -2405,7 +2405,7 @@ msgstr "Wartość %"
 
 #: mainunit.rswhatareyousayingyouregoingtocontinueusingceillegal
 msgid "WHAT!!! Are you saying you're going to continue using CE ILLEGALLY??? If you say yes, i'm going to mail the cops to get you and send you to jail!!!"
-msgstr "CO!!! Mowisz że masz zamiar uzywac dalej CE nielegalnie??? Jezeli tak, to mam zamiar isc z tym na policje i wyslac Cie do wiezienia!!!"
+msgstr "CO!!! Mowisz, że masz zamiar uzywac dalej CE nielegalnie??? Jezeli tak, to mam zamiar isc z tym na policje i wyslac Cie do wiezienia!!!"
 
 #: mainunit.rswhatdoyouwantthegroupnametobe
 msgid "What do you want the groupname to be?"
@@ -2476,7 +2476,7 @@ msgstr "Spowoduje to zamkniecie procesu. Jesteś pewny czy chcesz to zrobić?"
 
 #: mainunit.strconfirmundo
 msgid "Do you really want to go back to the results of the previous scan?"
-msgstr "Jesteś pewny że chcesz przywrocic poprzednie wyniki skanu?"
+msgstr "Jesteś pewny, że chcesz przywrocić poprzedni skan?"
 
 #: mainunit.strdeleteaddress
 msgid "Delete this address"
@@ -2484,7 +2484,7 @@ msgstr "Usuń ten adres"
 
 #: mainunit.strdeleteall
 msgid "Are you sure you want to delete all addresses?"
-msgstr "Jesteś pewny że chcesz usunąć wszystkie adresy?"
+msgstr "Jesteś pewny, że chcesz usunąć wszystkie adresy?"
 
 #: mainunit.strdeletetheseaddresses
 msgid "Delete these addresses"
@@ -2774,7 +2774,7 @@ msgstr "Wieksza wartość o ..."
 
 #: mainunit2.strneednewerwindowsversion
 msgid "This function only works in Windows 2000+ (perhaps also NT but not tested)"
-msgstr "Ta funkcja działa tylko na Windows 2000+ (mozliwe że tez z NT ale nie testowane)"
+msgstr "Ta funkcja działa tylko na Windows 2000+ (mozliwe, że tez z NT ale nie testowane)"
 
 #: mainunit2.strnewscan
 msgid "New Scan"
@@ -2880,7 +2880,7 @@ msgstr "DLL Zainjectowane"
 
 #: memorybrowserformunit.rsdoyouwanttoexecuteafunctionofthedll
 msgid "Do you want to execute a function of the dll?"
-msgstr "Czy chesz aktywowac funkcje DLLki?"
+msgstr "Czy chcesz aktywowac funkcje DLLki?"
 
 #: memorybrowserformunit.rserrorallocatingmemory
 msgid "Error allocating memory!"
@@ -2928,7 +2928,7 @@ msgstr "Injetuj dll"
 
 #: memorybrowserformunit.rsinputtheassemblycodetofindwilcardssupported
 msgid "Input the assembly code to find. Wildcards( * ) supported."
-msgstr "Wprowadz assembly kod do znalezienia.Znaki wieloznaczne ( * ) obslugiwane."
+msgstr "Wprowadz kod do znalezienia. Możesz użyć znaków wieloznacznych( * ) ."
 
 #: memorybrowserformunit.rsisnotavalidvalue
 msgctxt "memorybrowserformunit.rsisnotavalidvalue"
@@ -3152,7 +3152,7 @@ msgstr "Nie wiem co wywolalo crash, ale chyba nie mozesz wczytac DBVM"
 
 #: newkernelhandler.rsfucked
 msgid "Something is really messed up on your computer! You don't seems to have a kernel!!!!"
-msgstr "Cos naprawde zawiedli na Twoim komputerze! Nie widzisz że nie masz kernela!!!!"
+msgstr "Coś poszło nie tak! Chyba nie masz kernela!!!!"
 
 #: newkernelhandler.rspleaserebootandpressf8beforewindowsboots
 msgid "Please reboot and press f8 before windows boots. Then enable unsigned drivers. Alternatively, you could buy yourself a business class certificicate and sign the driver yourself (or try debug signing)"
@@ -3172,7 +3172,7 @@ msgstr "Twój CPU musi być w stanie uruchomic DBVM aby użyć tej funkcji"
 
 #: opensave.rsaskifstupid
 msgid "Generating a trainer with the current state of the cheat table will likely result in a completly useless trainer that does nothing. Are you sure?"
-msgstr "Generowanie trainera z tej tabeli będzie prowadzic do zupelnie tego że nic nie będzie robil. Jesteś pewny?"
+msgstr "Trainer wygenerowany z tabeli, w obecnym stanie, będzie bezużyteczny. Jesteś pewny?"
 
 #: opensave.rsdoesntcontainneededinformationwheretoplacethememor
 msgid "%s doesn't contain needed information where to place the memory"
@@ -3449,7 +3449,7 @@ msgstr "Błąd wartości wskaźnika"
 
 #: processwindowunit.rsattachdebuggerornot
 msgid "Are you sure you want to attach the debugger and not just open this process? (You can later on always attach the debugger)"
-msgstr "Jesteś pewny że chcesz otworzyć proces razem z debuggerem? (Możesz pozniej zamontowac debuggera) "
+msgstr "Jesteś pewny, że chcesz otworzyć proces razem z debuggerem? (zawsze możesz podpiąć debugger później)"
 
 #: processwindowunit.rscreateprocess
 msgctxt "processwindowunit.rscreateprocess"
@@ -3571,12 +3571,12 @@ msgstr "Zla konfiguracja szybkosci"
 #: structuresfrm.rsareyousureyouwanttodelete
 msgctxt "structuresfrm.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr "Jesteś pewny że chcesz to usunąć %s?"
+msgstr "Jesteś pewny, że chcesz usunąć %s?"
 
 #: structuresfrm.rsareyousureyouwanttoremoveallstructures
 msgctxt "structuresfrm.rsareyousureyouwanttoremoveallstructures"
 msgid "Are you sure you want to remove all structures?"
-msgstr "Jesteś pewny czy usunąć cala strukture?"
+msgstr "Jesteś pewny, że chcesz usunąć wszystkie struktury?"
 
 #: structuresfrm.rsautogeneratedfor
 msgctxt "structuresfrm.rsautogeneratedfor"
@@ -3601,7 +3601,7 @@ msgstr "Chcesz, aby spróbował i wypełnić najbardziej podstawe typy struktur 
 #: structuresfrm.rsfirstselectastructureyouwanttomodifyordefine
 msgctxt "structuresfrm.rsfirstselectastructureyouwanttomodifyordefine"
 msgid "First select a structure you want to modify or define one first"
-msgstr "Najpierw wybierz strukture, potem ja zdefiniuj"
+msgstr "Najpierw wybierz strukturę do zmodyfikowania lub utwórz nową"
 
 #: structuresfrm.rsgivetheaddressofthiselement
 msgctxt "structuresfrm.rsgivetheaddressofthiselement"
@@ -3666,7 +3666,7 @@ msgstr "Wskaźnik"
 #: structuresfrm.rsrecalculatebaseofstructure
 msgctxt "structuresfrm.rsrecalculatebaseofstructure"
 msgid "Recalculate base of structure"
-msgstr "Przelicz strukture bazy"
+msgstr "Oblicz bazę struktury"
 
 #: structuresfrm.rsrenamestructure
 msgctxt "structuresfrm.rsrenamestructure"
@@ -3676,12 +3676,12 @@ msgstr "Zmień nazwę struktury"
 #: structuresfrm.rsstructuredefine
 msgctxt "structuresfrm.rsstructuredefine"
 msgid "Structure define"
-msgstr "Zdefiniuj strukture"
+msgstr "Zdefiniuj strukturę"
 
 #: structuresfrm.rsstructuredefiner
 msgctxt "structuresfrm.rsstructuredefiner"
 msgid "Structure definer"
-msgstr "Definiuj strukture"
+msgstr "Definiuj strukturę"
 
 #: structuresfrm.rsstructureviewlock
 msgctxt "structuresfrm.rsstructureviewlock"
@@ -3696,7 +3696,7 @@ msgstr "Nieprawidlowa struktura pliku"
 #: structuresfrm.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav
 msgctxt "structuresfrm.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav"
 msgid "This is quite a big structure. How many bytes do you want to save?"
-msgstr "To ma za duza strukture. Jak dużo bitów chcesz zapisac?"
+msgstr "Jest to dość duża struktura. Ile bajtów chcesz zapisać?"
 
 #: structuresfrm.rsunkownfileextension
 msgctxt "structuresfrm.rsunkownfileextension"
@@ -3736,12 +3736,12 @@ msgstr "Adres: Wartość"
 #: structuresfrm2.rsareyousureyouwanttodelete
 msgctxt "structuresfrm2.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr "Jesteś pewny że chesz to skasowac %s?"
+msgstr "Jesteś pewny, że chcesz skasować %s?"
 
 #: structuresfrm2.rsareyousureyouwanttoremoveallstructures
 msgctxt "structuresfrm2.rsareyousureyouwanttoremoveallstructures"
 msgid "Are you sure you want to remove all structures?"
-msgstr "Jesteś pewny że chcesz skasować wszystkie struktury?"
+msgstr "Jesteś pewny, że chcesz skasować wszystkie struktury?"
 
 #: structuresfrm2.rsautogeneratedfor
 msgctxt "structuresfrm2.rsautogeneratedfor"
@@ -3888,12 +3888,12 @@ msgstr ""
 #: structuresfrm2.rsthisisnotavalidstructurefile
 msgctxt "structuresfrm2.rsthisisnotavalidstructurefile"
 msgid "This is not a valid structure file"
-msgstr "Jest to nieprawidlowa struktura pliku"
+msgstr "Plik ze strukturą jest nieprawidłowy"
 
 #: structuresfrm2.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav
 msgctxt "structuresfrm2.rsthisisquiteabigstructurehowmanybytesdoyouwanttosav"
 msgid "This is quite a big structure. How many bytes do you want to save?"
-msgstr "Jest to dosc duza struktura. Ile chcesz przeznaczyc bajtów na zapis?"
+msgstr "Jest to dość duża struktura. Ile bajtów chcesz zapisać?"
 
 #: structuresfrm2.rsundefined
 msgctxt "structuresfrm2.rsundefined"
@@ -3932,7 +3932,7 @@ msgstr ""
 
 #: symbolconfigunit.rsareyousureyouwanttoremovethissymbolfromthelist
 msgid "Are you sure you want to remove this symbol from the list?"
-msgstr "Jesteś pewny że chcesz usunąć ten znak z listy?"
+msgstr "Jesteś pewny, że chcesz usunąć ten Symbol z listy?"
 
 #: symbolhandler.rsalreadyexists
 msgid "already exists"
@@ -3952,7 +3952,7 @@ msgstr "Proszę podac wiekszy rozmiar"
 
 #: symbolhandler.rssymbolloaderthreadhascrashed
 msgid "Symbolloaderthread has crashed"
-msgstr "Symbolloaderthread zostalo scrashowane"
+msgstr "Symbolloaderthread przestał działać"
 
 #: symbolhandler.rsthesymbolnamedwaspreviouslydeclared
 msgid "The symbol named %s was previously declared with a size of %s instead of %s. all scripts that use this memory must give the same size. Adjust the size, or delete the old alloc from the userdefined symbol list"
@@ -4927,7 +4927,7 @@ msgstr ""
 
 #: TFORMSETTINGS.EDITFREEZEINTERVAL.HINT
 msgid "The number of milliseconds that Cheat Engine will wait before resetting the frozen addresses to their original value."
-msgstr "Liczba milisekund że Cheat Engine będzie czekać przed skanowaniem zamrożonych adresów do ich pierwotnej wartości"
+msgstr "Liczba milisekund co ile Cheat Engine będzie przywracać pierwotną wartość zamrożonych adresów."
 
 #: TFORMSETTINGS.EDITFREEZEINTERVAL.TEXT
 msgid "100"
@@ -4936,7 +4936,7 @@ msgstr ""
 #: TFORMSETTINGS.EDITUPDATEFOUNDINTERVAL.HINT
 msgctxt "TFORMSETTINGS.EDITUPDATEFOUNDINTERVAL.HINT"
 msgid "The number of milliseconds that Cheat Engine will wait before refreshing the list of addresses"
-msgstr "Liczba milisekund że Cheat Engine będzie czekać na odświeżenie listy adresów"
+msgstr "Liczba milisekund co ile Cheat Engine będzie odświeżał listę adresów"
 
 #: TFORMSETTINGS.EDITUPDATEFOUNDINTERVAL.TEXT
 msgid "1000"
@@ -4945,7 +4945,7 @@ msgstr ""
 #: TFORMSETTINGS.EDITUPDATEINTERVAL.HINT
 msgctxt "TFORMSETTINGS.EDITUPDATEINTERVAL.HINT"
 msgid "The number of milliseconds that Cheat Engine will wait before refreshing the list of addresses"
-msgstr "Liczba milisekund że Cheat Engine będzie czekać na odświeżenie listy adresów"
+msgstr "Liczba milisekund co ile Cheat Engine będzie odświeżał listę adresów"
 
 #: TFORMSETTINGS.EDITUPDATEINTERVAL.TEXT
 msgid "500"
@@ -5828,7 +5828,7 @@ msgstr "Znajdź"
 
 #: TFRMENUMERATEDLLS.LABEL2.CAPTION
 msgid "Symbols"
-msgstr "Znaki"
+msgstr "Symbols"
 
 #: TFRMEXETRAINERGENERATOR.BTNADDFILE.CAPTION
 msgid "Add file(s)"
@@ -7057,12 +7057,12 @@ msgstr "Wyt&nij"
 #: TFRMSTRUCTURES.DEFINENEWSTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES.DEFINENEWSTRUCTURE1.CAPTION"
 msgid "Define new structure"
-msgstr "Zdefiniuj nowa strukture"
+msgstr "Zdefiniuj nowa strukturę"
 
 #: TFRMSTRUCTURES.DELETECURRENTSTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES.DELETECURRENTSTRUCTURE1.CAPTION"
 msgid "Delete structure"
-msgstr "Usuń strukture"
+msgstr "Usuń strukturę"
 
 #: TFRMSTRUCTURES.DELETEELEMENT1.CAPTION
 msgid "Delete element"
@@ -7139,7 +7139,7 @@ msgstr "Zablokuj pamięć"
 
 #: TFRMSTRUCTURES.MISAVETOCT.CAPTION
 msgid "Save this structure in CT"
-msgstr "Zapisz ta strukture w CT"
+msgstr "Zapisz tę strukturę w CT"
 
 #: TFRMSTRUCTURES.MIUPDATEINTERVAL.CAPTION
 msgctxt "TFRMSTRUCTURES.MIUPDATEINTERVAL.CAPTION"
@@ -7257,7 +7257,7 @@ msgstr ""
 #: TFRMSTRUCTURES2.DEFINENEWSTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES2.DEFINENEWSTRUCTURE1.CAPTION"
 msgid "Define new structure"
-msgstr "Zdefiniuj nowa strukture"
+msgstr "Zdefiniuj nowa strukturę"
 
 #: TFRMSTRUCTURES2.DELETECURRENTSTRUCTURE1.CAPTION
 msgctxt "TFRMSTRUCTURES2.DELETECURRENTSTRUCTURE1.CAPTION"
@@ -9503,7 +9503,7 @@ msgstr ""
 
 #: TMEMORYBROWSER.KERNELMODESYMBOLS1.CAPTION
 msgid "Kernelmode symbols"
-msgstr "Znaki Kernelmode"
+msgstr "Kernelmode symbols"
 
 #: TMEMORYBROWSER.KERNELTOOLS1.CAPTION
 msgid "Kernel tools"
@@ -9528,7 +9528,7 @@ msgstr "Wczytaj region pamięci"
 
 #: TMEMORYBROWSER.LOADSYMBOLFILE1.CAPTION
 msgid "Load symbol file"
-msgstr "Wczytaj plik znakow"
+msgstr "Wczytaj Symbol file"
 
 #: TMEMORYBROWSER.LVSTACKTRACEDATA.COLUMNS[0].CAPTION
 msgctxt "TMEMORYBROWSER.LVSTACKTRACEDATA.COLUMNS[0].CAPTION"
@@ -9585,7 +9585,7 @@ msgstr ""
 
 #: tmemorybrowser.menuitem15.caption
 msgid "Overlay with structure"
-msgstr "Nakladka że struktura"
+msgstr "Nakładka z strukturą"
 
 #: tmemorybrowser.menuitem16.caption
 msgctxt "TMEMORYBROWSER.MENUITEM16.CAPTION"
@@ -9594,7 +9594,7 @@ msgstr ""
 
 #: tmemorybrowser.menuitem17.caption
 msgid "Generate structure from datastream and template"
-msgstr "Generuj strukture że strumienia danych i szablonu"
+msgstr "Generuj strukturę ze strumienia danych i szablonu"
 
 #: tmemorybrowser.menuitem18.caption
 msgid "Graphical memory view"
@@ -9891,7 +9891,7 @@ msgstr "Zaznacz moduł jaki chcesz zainjectowac"
 
 #: TMEMORYBROWSER.PASTEFROMCLIPBOARD1.CAPTION
 msgid "Paste from clipboard"
-msgstr "Wklej że schowka"
+msgstr "Wklej ze schowka"
 
 #: TMEMORYBROWSER.PFLABEL.CAPTION
 msgid "PF 0"
@@ -9956,7 +9956,7 @@ msgstr "Postaw punkt"
 
 #: TMEMORYBROWSER.SETSYMBOLSEARCHPATH1.CAPTION
 msgid "Set symbol searchpath"
-msgstr "Ustaw sciezke wyszukiwania"
+msgstr "Ustaw scieżkę wyszukiwania dla Symbol"
 
 #: TMEMORYBROWSER.SFLABEL.CAPTION
 msgid "SF 0"
@@ -9972,7 +9972,7 @@ msgstr "Pokaż moduly adresów"
 
 #: TMEMORYBROWSER.SHOWSYMBOLS1.CAPTION
 msgid "Show symbols"
-msgstr "Pokaż znaki"
+msgstr "Pokaż Symbols"
 
 #: TMEMORYBROWSER.SHOWVALUESOFSTATICADDRESSES1.CAPTION
 msgid "Show 'Comment' row"
@@ -10002,7 +10002,7 @@ msgstr "Krok nad"
 
 #: TMEMORYBROWSER.SYMBOLHANDLER1.CAPTION
 msgid "Userdefined symbols"
-msgstr "Niezidentyfikowane znaki"
+msgstr "Symbole użytkownika"
 
 #: TMEMORYBROWSER.THREADLIST1.CAPTION
 msgctxt "TMEMORYBROWSER.THREADLIST1.CAPTION"
